@@ -1,0 +1,778 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>《2026–2027 猶太讀經循環：年度通讀手冊與伴讀工具包》— 釐經伴道</title>
+  <meta name="description" content="信徒未來一年每週必備的導航儀：54週五經篇章對照日曆（5787）、雙軸文學架構圖譜、自研互動工具導覽指南、613誡命速查。釐經伴道 @shmuel310">
+  
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@400;600;700&family=Noto+Sans+TC:wght@300;400;500;600;700&family=Noto+Serif+TC:wght@400;600;700;900&display=swap" rel="stylesheet">
+  
+  <!-- Dedicated Stylesheet (Zero external dependencies) -->
+  <link rel="stylesheet" href="companion-style.css">
+</head>
+<body>
+
+  <!-- ═══════════════════════════════════════════════════════════════════
+       SCREEN TOOLBAR (螢幕專用浮動列，列印時自動隱藏)
+       ═══════════════════════════════════════════════════════════════════ -->
+  <header class="screen-toolbar no-print">
+    <div class="toolbar-brand">
+      <span class="brand-badge">釐經伴道</span>
+      <div>
+        <div class="brand-title">猶太讀經循環：年度通讀手冊與伴讀工具包</div>
+        <div class="brand-sub">5787 猶太曆 (2026–2027) · 基督信仰 · 聖經詮釋 · AI應用</div>
+      </div>
+    </div>
+
+    <nav class="toolbar-nav">
+      <a href="#page-1" class="nav-page-btn active">P1 封面導言</a>
+      <a href="#page-2" class="nav-page-btn">P2 宏觀圖譜</a>
+      <a href="#page-3" class="nav-page-btn">P3 年度日曆</a>
+      <a href="#page-4" class="nav-page-btn">P4 工具指南</a>
+      <a href="#page-5" class="nav-page-btn">P5 誡命速查</a>
+    </nav>
+
+    <div class="toolbar-actions">
+      <div class="progress-pill" id="progressPill">0 / 54 篇已通讀 (0%)</div>
+      <button class="btn-primary" id="printGuideBtn">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg>
+        列印 / 轉存 PDF
+      </button>
+    </div>
+  </header>
+
+  <!-- ═══════════════════════════════════════════════════════════════════
+       5-PAGE BOOKLET CONTAINER
+       ═══════════════════════════════════════════════════════════════════ -->
+  <main class="booklet-container">
+
+    <!-- ───────────────────────────────────────────────────────────────
+         PAGE 1: 典藏封面與導言（導航儀定位）
+         ─────────────────────────────────────────────────────────────── -->
+    <article class="guide-page" id="page-1">
+      <div class="page-running-head">
+        <span>2026–2027 猶太讀經循環 · 5787 猶太曆</span>
+        <strong>P1 典藏封面與導言</strong>
+      </div>
+
+      <div class="p1-cover">
+        <div class="cover-header-meta">
+          <div class="cover-badge-group">
+            <span class="brand-lead-tag">釐經伴道 · @SHMUEL310</span>
+            <span class="brand-pillars-tag">基督信仰 · 聖經詮釋 · AI應用</span>
+          </div>
+          <div class="cover-year-badge">
+            <div class="year-hebrew-large">ה'תשפ"ז</div>
+            <div class="year-gregorian-sub">Hebrew Year 5787 · 2026–2027</div>
+          </div>
+        </div>
+
+        <div class="cover-title-area">
+          <span class="cover-kicker">信徒年度通讀專用手冊 · 伴讀工具包</span>
+          <h1 class="cover-main-title">2026–2027 猶太讀經循環<br>年度通讀手冊與伴讀工具包</h1>
+          <div class="cover-sub-title">信徒未來一年每週必備的導航儀 · 54 週篇章日曆 · 文學架構 · 視覺化工具庫</div>
+        </div>
+
+        <div class="cover-scripture-banner">
+          <p class="scripture-quote">「你的話是我腳前的燈，是我路上的光。」</p>
+          <div class="scripture-source">—— 詩篇 119:105 · 申命記 30:14</div>
+        </div>
+
+        <div class="cover-grid">
+          <div class="cover-section-card">
+            <div class="cover-card-title">何謂每週妥拉讀經循環？</div>
+            <p class="cover-card-body">
+              猶太傳統將摩西五經分為 54 個每週篇章（Parashat HaShavua），在全世界猶太會堂的每個安息日同步誦讀，於秋季住棚節後的「妥拉節」（Simchat Torah）圓滿收卷並立刻重新啟程。這不僅是一套跨越千年的讀經傳統，更是主耶穌與初代使徒在會堂中聆聽、辯道與詮釋救贖的聖經母體（路 4:16–21，徒 15:21）。跟隨這個循環，能讓信徒脫離碎片化讀經，進入整全啟示的宏大河流。
+            </p>
+          </div>
+
+          <div class="cover-section-card">
+            <div class="cover-card-title">為什麼這份材料是「導航儀」？</div>
+            <p class="cover-card-body">
+              坊間多數教材是「教科書」，著重單向灌輸釋經結論；而本手冊的定位是**「每週隨行的導航儀」**。它不替你取代讀經，而是每週為你提供精準座標定位：標明經文範圍、展示五經宏觀救贖脈絡、並在遇上族譜、壽命、曆法或法典難點時，即時推介最適配的自研互動工具。你只需帶著聖經，依循手冊的節奏前行，即可隨時掌握全景視界。
+            </p>
+          </div>
+        </div>
+
+        <div class="mindsets-block">
+          <div class="mindsets-title">年度通讀三大核心心法 · THREE CORE MINDSETS</div>
+          <div class="mindsets-list">
+            <div class="mindset-item">
+              <div class="mindset-head">1. 同步律動 · Rhythm</div>
+              <div class="mindset-desc">每週鎖定一單元經文，不求快但求穩，在一年之內扎實通讀摩西五經 187 章，體會與歷代聖徒同行的心靈節奏。</div>
+            </div>
+            <div class="mindset-item">
+              <div class="mindset-head">2. 工具拓寬 · Clarity</div>
+              <div class="mindset-desc">閱讀創世記先祖與族長時搭配壽命圖與家族樹；讀到利未記時打開節期曆法與五經全覽，將抽象枯燥文字轉化為立體記憶。</div>
+            </div>
+            <div class="mindset-item">
+              <div class="mindset-head">3. 基督焦點 · Christ-Centered</div>
+              <div class="mindset-desc">在會幕構造、獻祭禮儀與西奈盟約中，時刻定睛於更美之約的中保——耶穌基督如何成為真正的實體與完全的救贖應驗。</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="cover-toc-bar">
+          <div class="toc-item">
+            <div class="toc-page-num">PAGE 02</div>
+            <div class="toc-title">五經宏觀雙軸架構圖譜</div>
+          </div>
+          <div class="toc-item">
+            <div class="toc-page-num">PAGE 03</div>
+            <div class="toc-title">54週年度通讀對照日曆</div>
+          </div>
+          <div class="toc-item">
+            <div class="toc-page-num">PAGE 04</div>
+            <div class="toc-title">自研互動工具伴讀指南</div>
+          </div>
+          <div class="toc-item">
+            <div class="toc-page-num">PAGE 05</div>
+            <div class="toc-title">613條誡命速查與社群封底</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="page-running-foot">
+        <span class="brand-tag">釐經伴道 @shmuel310 · 基督信仰 · 聖經詮釋 · AI應用</span>
+        <span class="page-num-indicator">PAGE 1 / 5</span>
+      </div>
+    </article>
+
+    <!-- ───────────────────────────────────────────────────────────────
+         PAGE 2: 五經宏觀文學架構圖譜（雙軸整合圖）
+         ─────────────────────────────────────────────────────────────── -->
+    <article class="guide-page" id="page-2">
+      <div class="page-running-head">
+        <span>五經宏觀文學架構圖譜 · LITERARY STRUCTURE MAPS</span>
+        <strong>P2 雙軸宏觀圖譜</strong>
+      </div>
+
+      <div class="section-masthead">
+        <div class="sec-category">摩西五經文學鳥瞰 · PENTATEUCH MACRO STRUCTURE</div>
+        <h2 class="sec-headline">五經雙軸宏觀圖譜：救贖歷史遞進與西奈交錯對稱</h2>
+        <div class="sec-sub">上軸揭示從萬物創造到應許之地的時間線遞進；下軸解構以利未記「聖所與贖罪」為巔峰的同心圓（Chiasm）文學架構。</div>
+      </div>
+
+      <div class="dual-axis-container">
+        <!-- Axis 1: Chronological Progression -->
+        <section class="axis-block">
+          <div class="axis-label-strip">
+            <div class="axis-title">
+              <span class="axis-badge">上軸</span>
+              救贖歷史時間線遞進軸 (Historical-Covenant Progression)
+            </div>
+            <div class="axis-note">五卷書從起初起源推進至摩押平原應許之地邊界</div>
+          </div>
+
+          <div class="timeline-books-grid">
+            <div class="t-book-col gen">
+              <div class="t-book-name">
+                <span>創世記</span>
+                <span class="t-book-hebrew">בְּרֵאשִׁית</span>
+              </div>
+              <div class="t-book-theme">創造·墮落·選召之約</div>
+              <ul class="t-book-points">
+                <li>宇宙創造與人類墮落</li>
+                <li>洪水審判與巴別塔分散</li>
+                <li>亞伯拉罕與族長立約呼召</li>
+                <li>約瑟保全全族下埃及避荒</li>
+              </ul>
+            </div>
+
+            <div class="t-book-col exo">
+              <div class="t-book-name">
+                <span>出埃及記</span>
+                <span class="t-book-hebrew">שְׁמוֹת</span>
+              </div>
+              <div class="t-book-theme">拯救·立約·神居會幕</div>
+              <ul class="t-book-points">
+                <li>以色列為奴嘆息蒙神眷顧</li>
+                <li>逾越節救贖與神蹟過紅海</li>
+                <li>西奈山降律法與十誡頒布</li>
+                <li>會幕建成，榮光充滿聖所</li>
+              </ul>
+            </div>
+
+            <div class="t-book-col lev">
+              <div class="t-book-name">
+                <span>利未記</span>
+                <span class="t-book-hebrew">וַיִּקְרָא</span>
+              </div>
+              <div class="t-book-theme">聖潔·祭禮·贖罪之日</div>
+              <ul class="t-book-points">
+                <li>五大祭禮條例與祭司膏立</li>
+                <li>飲食與生活全方位聖潔法典</li>
+                <li>第16章大贖罪日代罪羔羊</li>
+                <li>「你們要聖潔，因我是聖潔」</li>
+              </ul>
+            </div>
+
+            <div class="t-book-col num">
+              <div class="t-book-name">
+                <span>民數記</span>
+                <span class="t-book-hebrew">בְּמִדְבַּר</span>
+              </div>
+              <div class="t-book-theme">編隊·試煉·曠野漂泊</div>
+              <ul class="t-book-points">
+                <li>第一次數點與十二支派安營</li>
+                <li>探子不信，四十年曠野漂泊</li>
+                <li>可拉叛逆與摩西擊磐出水</li>
+                <li>第二代興起與曠野四十二站</li>
+              </ul>
+            </div>
+
+            <div class="t-book-col deu">
+              <div class="t-book-name">
+                <span>申命記</span>
+                <span class="t-book-hebrew">דְּבָרִים</span>
+              </div>
+              <div class="t-book-theme">重申·示瑪·生死抉擇</div>
+              <ul class="t-book-points">
+                <li>摩西在摩押平原臨別訓誨</li>
+                <li>重申十誡與示瑪聽命（愛神）</li>
+                <li>陳明生死禍福之約的選擇</li>
+                <li>摩西遠眺應許之地後長眠</li>
+              </ul>
+            </div>
+          </div>
+        </section>
+
+        <!-- Axis 2: Chiastic Concentric Structure -->
+        <section class="axis-block">
+          <div class="axis-label-strip">
+            <div class="axis-title">
+              <span class="axis-badge">下軸</span>
+              西奈山同心圓交錯對稱文學架構 (Chiasm A-B-C-B'-A')
+            </div>
+            <div class="axis-note">利未記作為全書地理核心與神學心臟</div>
+          </div>
+
+          <div class="chiasm-architecture">
+            <div class="chiasm-row level-a">
+              <div class="chiasm-tag">
+                <span class="chiasm-badge">A</span> 創世記
+              </div>
+              <div class="chiasm-content">
+                <div class="chiasm-headline">全地源起 · 族長立約呼召 · 寄居外邦</div>
+                <div class="chiasm-desc">從萬國創造出發，聚焦於神與亞伯拉罕所立的無條件應許之約；結尾停留在埃及（外邦應許地之外）。</div>
+              </div>
+            </div>
+
+            <div class="chiasm-row level-b">
+              <div class="chiasm-tag">
+                <span class="chiasm-badge">B</span> 出埃及記
+              </div>
+              <div class="chiasm-content">
+                <div class="chiasm-headline">出離埃及 · 曠野行軍向西奈 · 領受會幕藍圖</div>
+                <div class="chiasm-desc">神把百姓從埃及領出，行軍穿越紅海到達西奈山腳；立西奈之約，百姓親手建造會幕，神親臨營地。</div>
+              </div>
+            </div>
+
+            <div class="chiasm-row level-c">
+              <div class="chiasm-tag" style="color:var(--c-lev)">
+                <span class="chiasm-badge" style="background:var(--c-lev)">C 頂峰</span> 利未記
+              </div>
+              <div class="chiasm-content">
+                <div class="chiasm-headline" style="color:var(--c-lev)">【五經文學心臟】西奈山腳未移一步 · 至聖所臨在 · 贖罪日（Yom Kippur）</div>
+                <div class="chiasm-desc">地理上全書都在西奈山原地；神學上回答核心問題：「至聖至潔的創造主，如何與有罪的百姓同住而不毀滅他們？」全五經正中心（利 16 章）宣告贖罪祭與代罪之血，成為立約子民與神同在的基石。</div>
+              </div>
+            </div>
+
+            <div class="chiasm-row level-b">
+              <div class="chiasm-tag">
+                <span class="chiasm-badge">B'</span> 民數記
+              </div>
+              <div class="chiasm-content">
+                <div class="chiasm-headline">離開西奈 · 曠野四十二站行軍 · 抵達摩押平原</div>
+                <div class="chiasm-desc">會幕立於營地正中央行軍；對應出埃及記的行軍與試煉，經歷不信的倒斃與新生代的興起，終達摩押。</div>
+              </div>
+            </div>
+
+            <div class="chiasm-row level-a">
+              <div class="chiasm-tag">
+                <span class="chiasm-badge">A'</span> 申命記
+              </div>
+              <div class="chiasm-content">
+                <div class="chiasm-headline">重申聖約 · 眺望應許之地 · 萬民的見證</div>
+                <div class="chiasm-desc">對應創世記的始祖之約；摩西重申聖約律例，呼召百姓盡心愛主，在進入應許之地後成為列國公義智慧的見證。</div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- Christological Resonance Box -->
+        <section class="messianic-fulfillment-box">
+          <div class="mf-title">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="8" x2="12" y2="12"></line><line x1="12" y1="16" x2="12.01" y2="16"></line></svg>
+            新約與基督救贖成就的宏觀呼應 · CHRISTOLOGICAL FULFILLMENT
+          </div>
+          <div class="mf-grid">
+            <div class="mf-item">
+              <strong>1. 道成肉身與會幕</strong>
+              「道成了肉身，住在我們中間（字面原意：在我們當中支搭帳幕），充充滿滿地有恩典有真理。」（約 1:14）。基督即是至聖神的終極顯現。
+            </div>
+            <div class="mf-item">
+              <strong>2. 永遠的大祭司中保</strong>
+              利未祭司受限於死亡需世代更替，但基督「乃是照著無窮之生命的大能」，照著麥基洗德的等次作永遠的大祭司，成為更美之約的中保（來 7:22–25）。
+            </div>
+            <div class="mf-item">
+              <strong>3. 一次獻上永遠贖罪</strong>
+              利未記每年贖罪日公牛山羊的血只是預表與影兒；基督以自己的無瑕之血「只一次進入聖所，成了永遠贖罪的事」，完全平息神怒（來 9:11–12）。
+            </div>
+          </div>
+        </section>
+      </div>
+
+      <div class="page-running-foot">
+        <span class="brand-tag">釐經伴道 @shmuel310 · 基督信仰 · 聖經詮釋 · AI應用</span>
+        <span class="page-num-indicator">PAGE 2 / 5</span>
+      </div>
+    </article>
+
+    <!-- ───────────────────────────────────────────────────────────────
+         PAGE 3: 54 週五經篇章年度對照日曆（One-Page Printable Calendar for 5787）
+         ─────────────────────────────────────────────────────────────── -->
+    <article class="guide-page" id="page-3">
+      <div class="page-running-head">
+        <span>54 週五經篇章對照日曆 · 5787 ANNUAL READING CALENDAR</span>
+        <strong>P3 年度對照日曆</strong>
+      </div>
+
+      <div class="p3-calendar-head">
+        <div>
+          <h2 style="font-family:var(--font-serif);font-size:16px;font-weight:800;color:var(--text-main);">
+            54 週五經篇章年度通讀對照日曆（5787 猶太曆 / 2026–2027）
+          </h2>
+          <div style="font-size:9.5px;color:var(--text-muted);margin-top:1px;">
+            猶太閏年（含 Adar I / II，全篇單讀）· 起於 2026/10/10 Bereshit · 終於 2027/10/24 Simchat Torah
+          </div>
+        </div>
+        <div class="cal-legend-row">
+          <span><span class="cal-legend-dot" style="background:#166534"></span>壽命圖</span>
+          <span><span class="cal-legend-dot" style="background:#92400E"></span>家族圖</span>
+          <span><span class="cal-legend-dot" style="background:#1E40AF"></span>猶太曆</span>
+          <span><span class="cal-legend-dot" style="background:#6B21A8"></span>五經全覽</span>
+        </div>
+      </div>
+
+      <!-- 3-Column Compact Grid (18 per column = 54 total) -->
+      <div class="calendar-tri-grid">
+        <div class="cal-col">
+          <div class="cal-col-header">
+            <span>第 01–18 週 · 創世記至出埃及記</span>
+            <span>公曆 · 猶太曆</span>
+          </div>
+          <div id="calCol1">
+            <!-- Populated via JS / Dynamic Rendering -->
+          </div>
+        </div>
+
+        <div class="cal-col">
+          <div class="cal-col-header">
+            <span>第 19–36 週 · 出埃及記、利未記至民數記</span>
+            <span>公曆 · 猶太曆</span>
+          </div>
+          <div id="calCol2">
+            <!-- Populated via JS / Dynamic Rendering -->
+          </div>
+        </div>
+
+        <div class="cal-col">
+          <div class="cal-col-header">
+            <span>第 37–54 週 · 民數記至申命記</span>
+            <span>公曆 · 猶太曆</span>
+          </div>
+          <div id="calCol3">
+            <!-- Populated via JS / Dynamic Rendering -->
+          </div>
+        </div>
+      </div>
+
+      <!-- Footer Signing and Progress -->
+      <div class="cal-sign-strip">
+        <div id="p3ProgressStat" style="font-weight:700;color:var(--text-main);">
+          年度通讀進度：0 / 54 篇已研讀 (0%)
+        </div>
+        <div class="cal-sign-fields">
+          <span>立志讀經者：<span class="sign-line"></span></span>
+          <span>通讀啟程日：<span class="sign-line"></span></span>
+          <span>圓滿通讀簽署：<span class="sign-line"></span></span>
+        </div>
+      </div>
+
+      <div class="page-running-foot">
+        <span class="brand-tag">釐經伴道 @shmuel310 · 點選方塊自動記錄進度（支援跨次儲存）</span>
+        <span class="page-num-indicator">PAGE 3 / 5</span>
+      </div>
+    </article>
+
+    <!-- ───────────────────────────────────────────────────────────────
+         PAGE 4: 自研互動工具導覽指南（4 大工具伴讀專頁）
+         ─────────────────────────────────────────────────────────────── -->
+    <article class="guide-page" id="page-4">
+      <div class="page-running-head">
+        <span>自研互動工具導覽指南 · INTERACTIVE COMPANION TOOLS</span>
+        <strong>P4 自研工具指南</strong>
+      </div>
+
+      <div class="section-masthead">
+        <div class="sec-category">數位工具與聖經研讀 · DIGITAL STUDY ECOSYSTEM</div>
+        <h2 class="sec-headline">自研互動工具導覽指南：四把鑰匙解鎖五經時空</h2>
+        <div class="sec-sub">每張工具專為解決特定研讀痛點研發。紙本閱讀可直接手機掃描 QR Code，線上版可點擊按鈕直接開啟。</div>
+      </div>
+
+      <div class="tools-grid">
+        <!-- Tool 1: Lifespan -->
+        <div class="tool-card">
+          <div class="tool-card-head">
+            <div class="tool-title-group">
+              <span class="tool-badge-pill">TOOL 01 · 世代對照</span>
+              <div class="tool-name-primary">創世記先祖壽命圖譜</div>
+              <div class="tool-name-sub">Genesis Patriarchs Lifespan Timeline</div>
+            </div>
+            <div class="tool-qr-box">
+              <img src="companion_assets/qr_lifespan.svg" alt="先祖壽命圖 QR Code">
+            </div>
+          </div>
+
+          <div class="tool-weeks-banner">
+            🎯 推薦研讀週次：第 1–2 週（創世記 1–11 章：Bereshit / Noach）
+          </div>
+
+          <div class="tool-painpoint-box">
+            <strong>核心痛點：</strong>先祖動輒數百歲的數字常被讀者快速滑過，難以直觀感受亞當、瑪土撒拉、挪亞在歷史上的世代交疊與大洪水後壽命急劇縮短的震撼斷層。
+          </div>
+
+          <ul class="tool-features-list">
+            <li>互動水平甘特時空條：橫跨創世至亞伯拉罕時代，生卒年生平一目了然</li>
+            <li>世代交疊即時驗證：點擊亞當查看同時代人物，直觀見證拉麥與亞當同活 56 年</li>
+            <li>大洪水年代分割線：視覺化標記洪水事件，清晰對照洪水前後壽命曲線驟降</li>
+          </ul>
+
+          <div class="tool-tip-box">
+            <strong>伴讀心法：</strong>讀到創世記 5 章與 11 章家譜時開箱，原本枯燥的「生與死」數字立刻化為立體歷史見證。
+          </div>
+
+          <div>
+            <a href="https://shmuel310.github.io/genesis_patriarchs_lifespan/" target="_blank" rel="noopener" class="tool-cta-link">
+              🔗 開啟工具：shmuel310.github.io/genesis_patriarchs_lifespan/ →
+            </a>
+          </div>
+        </div>
+
+        <!-- Tool 2: Genfam -->
+        <div class="tool-card">
+          <div class="tool-card-head">
+            <div class="tool-title-group">
+              <span class="tool-badge-pill">TOOL 02 · 族長譜系</span>
+              <div class="tool-name-primary">創世記族長家族譜系圖</div>
+              <div class="tool-name-sub">Genesis Patriarchs Interactive Family Tree</div>
+            </div>
+            <div class="tool-qr-box">
+              <img src="companion_assets/qr_genfam.svg" alt="創世記家族圖 QR Code">
+            </div>
+          </div>
+
+          <div class="tool-weeks-banner">
+            🎯 推薦研讀週次：第 3–12 週（創世記 12–50 章：Lech-Lecha 至 Vayechi）
+          </div>
+
+          <div class="tool-painpoint-box">
+            <strong>核心痛點：</strong>亞伯拉罕家族親屬網絡繁複（妻妾支脈、以東與以色列分流、雅各四位妻妾與十二支派母親），極易在多重宗族線索中混淆迷失。
+          </div>
+
+          <ul class="tool-features-list">
+            <li>全景動態分支樹狀圖：清晰區隔嫡庶親屬、婚姻盟約與各族繁衍支脈</li>
+            <li>十二支派母親色彩高亮：利亞、拉結、辟拉、悉帕所生之子一鍵辨析</li>
+            <li>人物生平事件快照：點選任意家族成員，即顯生平大事記與核心經文出處</li>
+          </ul>
+
+          <div class="tool-tip-box">
+            <strong>伴讀心法：</strong>讀到雅各生諸子（創 29–30）與以掃後代（創 36）時搭配使用，宗族脈絡一清二楚。
+          </div>
+
+          <div>
+            <a href="https://shmuel310.github.io/genfam/" target="_blank" rel="noopener" class="tool-cta-link">
+              🔗 開啟工具：shmuel310.github.io/genfam/ →
+            </a>
+          </div>
+        </div>
+
+        <!-- Tool 3: Jewish Calendar -->
+        <div class="tool-card">
+          <div class="tool-card-head">
+            <div class="tool-title-group">
+              <span class="tool-badge-pill">TOOL 03 · 神聖曆法</span>
+              <div class="tool-name-primary">猶太曆法與聖經節期全覽</div>
+              <div class="tool-name-sub">Biblical & Jewish Calendar Navigator</div>
+            </div>
+            <div class="tool-qr-box">
+              <img src="companion_assets/qr_calendar.svg" alt="猶太曆法 QR Code">
+            </div>
+          </div>
+
+          <div class="tool-weeks-banner">
+            🎯 推薦研讀週次：第 15 週 Bo、第 29–32 週（利未記節期篇章）及民數記節期
+          </div>
+
+          <div class="tool-painpoint-box">
+            <strong>核心痛點：</strong>習慣現代陽曆的信徒，面對聖經太陰太陽曆（如正月亞筆月/尼散月、宗教曆與民事曆）常感抽象，難以體會七大節期的神聖救贖秩序。
+          </div>
+
+          <ul class="tool-features-list">
+            <li>雙環動態曆法對照：公曆 12 個月份與猶太曆 12/13 個月份即時動態對位</li>
+            <li>耶和華七大節期指南：逾越節、五旬節、大贖罪日、住棚節之經文規範與禮儀</li>
+            <li>彌賽亞救贖預表：春節期如何應驗基督第一次降臨，秋節期如何預表末後再來</li>
+          </ul>
+
+          <div class="tool-tip-box">
+            <strong>伴讀心法：</strong>讀到出埃及記 12 章（正月定為歲首）與利未記 23 章時開箱，精確對位神聖救贖時刻。
+          </div>
+
+          <div>
+            <a href="https://shmuel310.github.io/jewish_calendar/" target="_blank" rel="noopener" class="tool-cta-link">
+              🔗 開啟工具：shmuel310.github.io/jewish_calendar/ →
+            </a>
+          </div>
+        </div>
+
+        <!-- Tool 4: Torah Explorer -->
+        <div class="tool-card">
+          <div class="tool-card-head">
+            <div class="tool-title-group">
+              <span class="tool-badge-pill">TOOL 04 · 律法矩陣</span>
+              <div class="tool-name-primary">摩西五經互動資訊 · 613 誡命全覽</div>
+              <div class="tool-name-sub">Torah Interactive Reference & 613 Mitzvot</div>
+            </div>
+            <div class="tool-qr-box">
+              <img src="companion_assets/qr_explorer.svg" alt="摩西五經互動資訊 QR Code">
+            </div>
+          </div>
+
+          <div class="tool-weeks-banner">
+            🎯 推薦研讀週次：全年度 54 週全年常備（涵蓋五卷書、行軍驛站與誡命矩陣）
+          </div>
+
+          <div class="tool-painpoint-box">
+            <strong>核心痛點：</strong>613 條誡命散落各卷，傳統讀經難以查考某條誡命在何處重述、屬於哪類法典主題，或是在以色列歷史行軍中於何地頒佈。
+          </div>
+
+          <ul class="tool-features-list">
+            <li>11 大研讀視角：613 誡命檢索、五書重述矩陣、妥拉之輪極坐標輪盤、法典矩陣</li>
+            <li>出埃及與曠野 40 年互動地圖：42 個行軍驛站地理坐標與各站法令即時聯動</li>
+            <li>三語經文與法典分類：希伯來原文、和合本中文、英文，邁蒙尼德 14 大分類</li>
+          </ul>
+
+          <div class="tool-tip-box">
+            <strong>伴讀心法：</strong>每週讀經時在工具中按「篇章」篩選，一鍵呈現本週經文涵蓋的全部誡命原文與清單。
+          </div>
+
+          <div>
+            <a href="https://shmuel310.github.io/torah-explorer/" target="_blank" rel="noopener" class="tool-cta-link">
+              🔗 開啟工具：shmuel310.github.io/torah-explorer/ →
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <div class="page-running-foot">
+        <span class="brand-tag">釐經伴道 @shmuel310 · 基督信仰 · 聖經詮釋 · AI應用</span>
+        <span class="page-num-indicator">PAGE 4 / 5</span>
+      </div>
+    </article>
+
+    <!-- ───────────────────────────────────────────────────────────────
+         PAGE 5: 613 條誡命每週分佈速查與社群封底（CTA）
+         ─────────────────────────────────────────────────────────────── -->
+    <article class="guide-page" id="page-5">
+      <div class="page-running-head">
+        <span>613 條誡命速查與社群封底 · MITZVOT CHEAT SHEET & BACK COVER</span>
+        <strong>P5 誡命速查與封底</strong>
+      </div>
+
+      <div class="p5-container">
+        <!-- Upper Half: 613 Mitzvot Quick Cheat Sheet -->
+        <div>
+          <div class="section-masthead" style="margin-bottom:8px;">
+            <div class="sec-category">五經誡命總覽 · 613 MITZVOT AT A GLANCE</div>
+            <h2 class="sec-headline" style="font-size:17px;">摩西五經 613 條誡命每週分佈圖譜與核心速查</h2>
+            <div class="sec-sub">依據邁蒙尼德《誡命書》法典梳理，展示五卷書分佈權重、正負比例與 14 大核心法典分類。</div>
+          </div>
+
+          <div class="mitzvot-overview-card">
+            <!-- 3 Metrics -->
+            <div class="mitzvot-summary-metrics">
+              <div class="metric-box">
+                <div class="metric-num">613</div>
+                <div class="metric-lbl">誡命總數 (Taryag Mitzvot)</div>
+              </div>
+              <div class="metric-box">
+                <div class="metric-num" style="color:#16A34A">248</div>
+                <div class="metric-lbl">積極誡命 · 當行 (Positive)</div>
+              </div>
+              <div class="metric-box">
+                <div class="metric-num" style="color:#DC2626">365</div>
+                <div class="metric-lbl">消極禁令 · 不可 (Negative)</div>
+              </div>
+            </div>
+
+            <!-- Books Table -->
+            <table class="mitzvot-books-table">
+              <thead>
+                <tr>
+                  <th style="width:70px;">卷書</th>
+                  <th style="width:50px;">誡命數</th>
+                  <th style="width:90px;">當行 / 不可</th>
+                  <th style="width:130px;">分佈比重條</th>
+                  <th>各卷書核心代表誡命與神學實踐</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td><strong>創世記</strong></td>
+                  <td style="font-family:var(--font-mono);font-weight:700;">1 條</td>
+                  <td>1 / 0</td>
+                  <td><div class="bar-wrap"><div class="bar-fill-pos" style="width:100%"></div></div></td>
+                  <td>生養眾多，遍滿地面（創 1:28）· 家庭倫理與受造使命起點</td>
+                </tr>
+                <tr>
+                  <td><strong>出埃及記</strong></td>
+                  <td style="font-family:var(--font-mono);font-weight:700;">111 條</td>
+                  <td>33 / 78</td>
+                  <td><div class="bar-wrap"><div class="bar-fill-pos" style="width:30%"></div><div class="bar-fill-neg" style="width:70%"></div></div></td>
+                  <td>確立獨一真神與十誡安息（出 20:2–17）· 救贖盟約與會幕神居</td>
+                </tr>
+                <tr>
+                  <td><strong>利未記</strong></td>
+                  <td style="font-family:var(--font-mono);font-weight:700;color:var(--c-lev);">247 條 (40%)</td>
+                  <td>95 / 152</td>
+                  <td><div class="bar-wrap"><div class="bar-fill-pos" style="width:38%"></div><div class="bar-fill-neg" style="width:62%"></div></div></td>
+                  <td>要愛人如己，我是耶和華（利 19:18）· 聖潔法典之冠與贖罪大祭禮</td>
+                </tr>
+                <tr>
+                  <td><strong>民數記</strong></td>
+                  <td style="font-family:var(--font-mono);font-weight:700;">52 條</td>
+                  <td>18 / 34</td>
+                  <td><div class="bar-wrap"><div class="bar-fill-pos" style="width:35%"></div><div class="bar-fill-neg" style="width:65%"></div></div></td>
+                  <td>衣裳四圍作繸子記念一切誡命（民 15:38–39）· 曠野行軍與事奉</td>
+                </tr>
+                <tr>
+                  <td><strong>申命記</strong></td>
+                  <td style="font-family:var(--font-mono);font-weight:700;">200 條 (33%)</td>
+                  <td>101 / 99</td>
+                  <td><div class="bar-wrap"><div class="bar-fill-pos" style="width:51%"></div><div class="bar-fill-neg" style="width:49%"></div></div></td>
+                  <td>你要盡心、盡性、盡力愛耶和華你的神（申 6:5 示瑪）· 重申之約</td>
+                </tr>
+              </tbody>
+            </table>
+
+            <!-- 14 Categories Grid -->
+            <div style="font-size:9px;font-weight:700;color:var(--text-main);margin-bottom:4px;text-transform:uppercase;">
+              邁蒙尼德 14 大法典領域主題速查 (14 Legal Classifications)
+            </div>
+            <div class="categories-compact-grid">
+              <div class="cat-chip">
+                <div><span class="cat-name">1. 知識真神</span> <span class="cat-sub">神本體、敬畏、愛神、聽話語</span></div>
+                <div class="cat-count">46 條</div>
+              </div>
+              <div class="cat-chip">
+                <div><span class="cat-name">2. 偶像禁令</span> <span class="cat-sub">除偶像、禁行巫術、異教俗習</span></div>
+                <div class="cat-count">47 條</div>
+              </div>
+              <div class="cat-chip">
+                <div><span class="cat-name">3. 敬拜時令</span> <span class="cat-sub">安息日、七大節期、曆法條例</span></div>
+                <div class="cat-count">43 條</div>
+              </div>
+              <div class="cat-chip">
+                <div><span class="cat-name">4. 聖潔飲食</span> <span class="cat-sub">潔淨生物、禁吃血脂、不混肉奶</span></div>
+                <div class="cat-count">37 條</div>
+              </div>
+              <div class="cat-chip">
+                <div><span class="cat-name">5. 誓願誓言</span> <span class="cat-sub">許願、起誓、拿細耳人誓言規條</span></div>
+                <div class="cat-count">25 條</div>
+              </div>
+              <div class="cat-chip">
+                <div><span class="cat-name">6. 婚姻家庭</span> <span class="cat-sub">婚禮、休書、亂倫禁令與家庭倫理</span></div>
+                <div class="cat-count">49 條</div>
+              </div>
+              <div class="cat-chip">
+                <div><span class="cat-name">7. 農業土地</span> <span class="cat-sub">安息年、禧年宣告、窮人留遺穗</span></div>
+                <div class="cat-count">51 條</div>
+              </div>
+              <div class="cat-chip">
+                <div><span class="cat-name">8. 聖所事奉</span> <span class="cat-sub">會幕建造、祭壇之火、祭司職分</span></div>
+                <div class="cat-count">61 條</div>
+              </div>
+              <div class="cat-chip">
+                <div><span class="cat-name">9. 獻祭之禮</span> <span class="cat-sub">燔祭、素祭、平安祭、贖罪祭禮</span></div>
+                <div class="cat-count">69 條</div>
+              </div>
+              <div class="cat-chip">
+                <div><span class="cat-name">10. 祭司聖物</span> <span class="cat-sub">初熟土產、十分之一、聖物歸主</span></div>
+                <div class="cat-count">38 條</div>
+              </div>
+              <div class="cat-chip">
+                <div><span class="cat-name">11. 禮儀潔淨</span> <span class="cat-sub">痲瘋疹診斷、漏症、死屍潔淨水</span></div>
+                <div class="cat-count">28 條</div>
+              </div>
+              <div class="cat-chip">
+                <div><span class="cat-name">12. 人身損害</span> <span class="cat-sub">傷人賠償、誤殺逃城、公義裁判</span></div>
+                <div class="cat-count">36 條</div>
+              </div>
+              <div class="cat-chip">
+                <div><span class="cat-name">13. 財產賠償</span> <span class="cat-sub">竊盜償還、誠實天秤法碼、禁取利</span></div>
+                <div class="cat-count">40 條</div>
+              </div>
+              <div class="cat-chip">
+                <div><span class="cat-name">14. 司法戰爭</span> <span class="cat-sub">法官公正、證人驗證、立王與出征</span></div>
+                <div class="cat-count">43 條</div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Lower Half: Lead Magnet Back Cover CTA -->
+        <section class="cta-back-cover">
+          <div class="cta-left-content">
+            <div class="cta-brand-head">
+              <span class="cta-brand-title">釐經伴道</span>
+              <span class="cta-brand-handle">@shmuel310</span>
+              <span class="cta-pillars-badge">基督信仰 · 聖經詮釋 · AI應用</span>
+            </div>
+
+            <div class="cta-slogan">「以文字梳理聖言，以工具釐清脈絡」</div>
+
+            <p class="cta-copy">
+              我們深信，古代聖經文本並非沉寂古籍，而是能透過嚴謹的文本詮釋與現代互動科技（包括 AI 與資訊視覺化），重新以立體鮮活的姿態展現於信徒面前。追蹤官方 Instagram 獲取每週妥拉篇章導讀、先知書與使徒書信連線解析、以及最新自研 AI 聖經研讀工具發布通知。願這份導航儀伴隨你未來一年的讀經旅程，遇見在文字背後說話的至聖者。
+            </p>
+          </div>
+
+          <div class="cta-qr-group">
+            <div class="cta-qr-box">
+              <img src="companion_assets/qr_instagram.svg" alt="Instagram @shmuel310 QR Code">
+            </div>
+            <div class="cta-qr-caption">追蹤 INSTAGRAM</div>
+            <a href="https://www.instagram.com/shmuel310" target="_blank" rel="noopener" style="font-size:8px;color:var(--accent-blue);text-decoration:none;font-weight:700;">
+              instagram.com/shmuel310
+            </a>
+          </div>
+        </section>
+      </div>
+
+      <div class="page-running-foot">
+        <span class="brand-tag">釐經伴道 @shmuel310 · 2026–2027 年度發行 · 非商業研讀伴讀材料</span>
+        <span class="page-num-indicator">PAGE 5 / 5</span>
+      </div>
+    </article>
+
+  </main>
+
+  <!-- Script data & logic -->
+  <script src="companion-data.js"></script>
+  <script src="companion.js"></script>
+</body>
+</html>
