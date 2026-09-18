@@ -1,0 +1,3680 @@
+[
+  {
+    "num": 1,
+    "pol": "P",
+    "ref": "EXO 20:2",
+    "concept": "Know there is a G-d"
+  },
+  {
+    "num": 2,
+    "pol": "N",
+    "ref": "EXO 20:3",
+    "concept": "Do not entertain thoughts of other gods besides G-d"
+  },
+  {
+    "num": 3,
+    "pol": "P",
+    "ref": "DEU 6:4",
+    "concept": "Know that G-d is One, a complete Unity"
+  },
+  {
+    "num": 4,
+    "pol": "P",
+    "ref": "DEU 6:5",
+    "concept": "Love G-d"
+  },
+  {
+    "num": 5,
+    "pol": "P",
+    "ref": "DEU 10:20",
+    "concept": "Fear G-d reverently"
+  },
+  {
+    "num": 6,
+    "pol": "P",
+    "ref": "LEV 22:32",
+    "concept": "Sanctify G-d's Name"
+  },
+  {
+    "num": 7,
+    "pol": "N",
+    "ref": "LEV 22:32",
+    "concept": "Do not profane G-d's Name"
+  },
+  {
+    "num": 8,
+    "pol": "N",
+    "ref": "DEU 12:4",
+    "concept": "Do not destroy objects associated with G-d's Name"
+  },
+  {
+    "num": 9,
+    "pol": "P",
+    "ref": "DEU 18:15",
+    "concept": "Listen to the prophet speaking in G-d's Name"
+  },
+  {
+    "num": 10,
+    "pol": "N",
+    "ref": "DEU 6:16",
+    "concept": "Do not test G-d unduly"
+  },
+  {
+    "num": 11,
+    "pol": "P",
+    "ref": "DEU 28:9",
+    "concept": "Emulate G-d's ways"
+  },
+  {
+    "num": 12,
+    "pol": "P",
+    "ref": "DEU 10:20",
+    "concept": "Cleave to those who know G-d (and His Law)"
+  },
+  {
+    "num": 13,
+    "pol": "P",
+    "ref": "LEV 19:18",
+    "concept": "Love other covenant members"
+  },
+  {
+    "num": 14,
+    "pol": "P",
+    "ref": "DEU 10:19",
+    "concept": "Show love towards foreigners"
+  },
+  {
+    "num": 15,
+    "pol": "N",
+    "ref": "LEV 19:17",
+    "concept": "Do not hate fellow covenant members"
+  },
+  {
+    "num": 16,
+    "pol": "P",
+    "ref": "LEV 19:17",
+    "concept": "Reprove a neighbor who sins"
+  },
+  {
+    "num": 17,
+    "pol": "N",
+    "ref": "LEV 19:17",
+    "concept": "Do not embarrass others"
+  },
+  {
+    "num": 18,
+    "pol": "N",
+    "ref": "EXO 22:21",
+    "concept": "Do not oppress the stranger"
+  },
+  {
+    "num": 19,
+    "pol": "N",
+    "ref": "LEV 19:16",
+    "concept": "Do not gossip about others"
+  },
+  {
+    "num": 20,
+    "pol": "N",
+    "ref": "LEV 19:18",
+    "concept": "Do not take revenge"
+  },
+  {
+    "num": 21,
+    "pol": "N",
+    "ref": "LEV 19:18",
+    "concept": "Do not bear a grudge"
+  },
+  {
+    "num": 22,
+    "pol": "P",
+    "ref": "DEU 6:7",
+    "concept": "Learn the Law (Torah)"
+  },
+  {
+    "num": 23,
+    "pol": "P",
+    "ref": "LEV 19:32",
+    "concept": "Honor the wise and the aged (who know and teach G-d's Law)"
+  },
+  {
+    "num": 24,
+    "pol": "N",
+    "ref": "LEV 19:4",
+    "concept": "Do not inquire into idolatry"
+  },
+  {
+    "num": 25,
+    "pol": "N",
+    "ref": "NUM 15:39",
+    "concept": "Do not follow the whims of your heart or what your eyes see"
+  },
+  {
+    "num": 26,
+    "pol": "N",
+    "ref": "EXO 22:28",
+    "concept": "Do not curse G-d"
+  },
+  {
+    "num": 27,
+    "pol": "N",
+    "ref": "EXO 20:5",
+    "concept": "Do not worship idols in the manner they are worshiped"
+  },
+  {
+    "num": 28,
+    "pol": "N",
+    "ref": "EXO 20:5",
+    "concept": "Do not worship idols in the four ways we worship G-d"
+  },
+  {
+    "num": 29,
+    "pol": "N",
+    "ref": "EXO 20:4",
+    "concept": "Do not make an idol for yourself"
+  },
+  {
+    "num": 30,
+    "pol": "N",
+    "ref": "LEV 19:4",
+    "concept": "Do not make an idol for others"
+  },
+  {
+    "num": 31,
+    "pol": "N",
+    "ref": "EXO 20:23",
+    "concept": "Do not make human forms even for decorative purposes"
+  },
+  {
+    "num": 32,
+    "pol": "N",
+    "ref": "EXO 23:13",
+    "concept": "Do not turn a city to idolatry"
+  },
+  {
+    "num": 33,
+    "pol": "P",
+    "ref": "DEU 13:17",
+    "concept": "Burn a city that has turned to idol worship"
+  },
+  {
+    "num": 34,
+    "pol": "N",
+    "ref": "DEU 13:17",
+    "concept": "Do not rebuild an idolatrous city that has been burned"
+  },
+  {
+    "num": 35,
+    "pol": "N",
+    "ref": "DEU 13:18",
+    "concept": "Do not derive benefit from an idolatrous city"
+  },
+  {
+    "num": 36,
+    "pol": "N",
+    "ref": "DEU 13:12",
+    "concept": "Do not entice an individual to idol worship"
+  },
+  {
+    "num": 37,
+    "pol": "N",
+    "ref": "DEU 13:9",
+    "concept": "Do not love those who entice others into idolatry"
+  },
+  {
+    "num": 38,
+    "pol": "N",
+    "ref": "DEU 13:9",
+    "concept": "Do not cease hating an idolater"
+  },
+  {
+    "num": 39,
+    "pol": "N",
+    "ref": "DEU 13:9",
+    "concept": "Do not save an idolater from execution"
+  },
+  {
+    "num": 40,
+    "pol": "N",
+    "ref": "DEU 13:9",
+    "concept": "Do not say anything in an idolater's defense"
+  },
+  {
+    "num": 41,
+    "pol": "N",
+    "ref": "DEU 13:9",
+    "concept": "Do not refrain from incriminating an idolater"
+  },
+  {
+    "num": 42,
+    "pol": "N",
+    "ref": "DEU 18:20",
+    "concept": "Do not prophesy in the name of idolatry"
+  },
+  {
+    "num": 43,
+    "pol": "N",
+    "ref": "DEU 13:4",
+    "concept": "Do not listen to a false prophet"
+  },
+  {
+    "num": 44,
+    "pol": "N",
+    "ref": "DEU 18:20",
+    "concept": "Do not prophesy falsely in the name of G-d"
+  },
+  {
+    "num": 45,
+    "pol": "N",
+    "ref": "DEU 18:22",
+    "concept": "Do not be afraid of killing the false prophet"
+  },
+  {
+    "num": 46,
+    "pol": "N",
+    "ref": "EXO 23:13",
+    "concept": "Do not swear in the name of an idol"
+  },
+  {
+    "num": 47,
+    "pol": "N",
+    "ref": "LEV 19:31",
+    "concept": "Do not inquire of spirits"
+  },
+  {
+    "num": 48,
+    "pol": "N",
+    "ref": "LEV 19:31",
+    "concept": "Do not consult magicians or seers"
+  },
+  {
+    "num": 49,
+    "pol": "N",
+    "ref": "LEV 18:21",
+    "concept": "Do not pass your children through the fire to Molech"
+  },
+  {
+    "num": 50,
+    "pol": "N",
+    "ref": "DEU 16:22",
+    "concept": "Do not erect a pillar in a public place of worship"
+  },
+  {
+    "num": 51,
+    "pol": "N",
+    "ref": "LEV 26:1",
+    "concept": "Do not bow down on smooth stone"
+  },
+  {
+    "num": 52,
+    "pol": "N",
+    "ref": "DEU 16:21",
+    "concept": "Do not plant a tree in the Temple courtyard"
+  },
+  {
+    "num": 53,
+    "pol": "P",
+    "ref": "DEU 12:2",
+    "concept": "Destroy idols and their accessories"
+  },
+  {
+    "num": 54,
+    "pol": "N",
+    "ref": "DEU 7:26",
+    "concept": "Do not derive benefit from idols and their accessories"
+  },
+  {
+    "num": 55,
+    "pol": "N",
+    "ref": "DEU 7:25",
+    "concept": "Do not derive benefit from ornaments of idols"
+  },
+  {
+    "num": 56,
+    "pol": "N",
+    "ref": "DEU 7:2",
+    "concept": "Do not make a covenant with idolaters"
+  },
+  {
+    "num": 57,
+    "pol": "N",
+    "ref": "DEU 7:2",
+    "concept": "Do not show favor to idolaters"
+  },
+  {
+    "num": 58,
+    "pol": "N",
+    "ref": "EXO 23:33",
+    "concept": "Do not let idolaters dwell in the Land of Israel"
+  },
+  {
+    "num": 59,
+    "pol": "N",
+    "ref": "LEV 20:23",
+    "concept": "Do not imitate idolaters in customs and clothing"
+  },
+  {
+    "num": 60,
+    "pol": "N",
+    "ref": "LEV 19:26",
+    "concept": "Do not be superstitious"
+  },
+  {
+    "num": 61,
+    "pol": "N",
+    "ref": "DEU 18:10",
+    "concept": "Do not go into a trance to foresee events, etc"
+  },
+  {
+    "num": 62,
+    "pol": "N",
+    "ref": "LEV 19:26",
+    "concept": "Do not engage in astrology"
+  },
+  {
+    "num": 63,
+    "pol": "N",
+    "ref": "DEU 18:11",
+    "concept": "Do not mutter incantations"
+  },
+  {
+    "num": 64,
+    "pol": "N",
+    "ref": "DEU 18:11",
+    "concept": "Do not attempt to contact the dead"
+  },
+  {
+    "num": 65,
+    "pol": "N",
+    "ref": "DEU 18:11",
+    "concept": "Do not consult ghosts or spirits"
+  },
+  {
+    "num": 66,
+    "pol": "N",
+    "ref": "DEU 18:11",
+    "concept": "Do not consult magicians or wizards"
+  },
+  {
+    "num": 67,
+    "pol": "N",
+    "ref": "DEU 18:10",
+    "concept": "Do not perform acts of magic"
+  },
+  {
+    "num": 68,
+    "pol": "N",
+    "ref": "LEV 19:27",
+    "concept": "Men must not shave the hair off the sides of their head"
+  },
+  {
+    "num": 69,
+    "pol": "N",
+    "ref": "LEV 19:27",
+    "concept": "Men must not shave their beards with a razor"
+  },
+  {
+    "num": 70,
+    "pol": "N",
+    "ref": "DEU 22:5",
+    "concept": "Men must not wear women's clothing"
+  },
+  {
+    "num": 71,
+    "pol": "N",
+    "ref": "DEU 22:5",
+    "concept": "Women must not wear men's clothing"
+  },
+  {
+    "num": 72,
+    "pol": "N",
+    "ref": "LEV 19:28",
+    "concept": "Do not tattoo the skin"
+  },
+  {
+    "num": 73,
+    "pol": "N",
+    "ref": "DEU 14:1",
+    "concept": "Do not tear or cut the skin in mourning"
+  },
+  {
+    "num": 74,
+    "pol": "N",
+    "ref": "DEU 14:1",
+    "concept": "Do not make a bald spot in mourning"
+  },
+  {
+    "num": 75,
+    "pol": "P",
+    "ref": "NUM 5:7",
+    "concept": "Repent and confess wrongdoings"
+  },
+  {
+    "num": 76,
+    "pol": "P",
+    "ref": "DEU 6:7",
+    "concept": "Recite the Shema twice daily"
+  },
+  {
+    "num": 77,
+    "pol": "P",
+    "ref": "EXO 23:25",
+    "concept": "Serve the Almighty [traditionally: with daily prayer]"
+  },
+  {
+    "num": 78,
+    "pol": "P",
+    "ref": "NUM 6:23",
+    "concept": "The priests must bless the Israelite nation daily"
+  },
+  {
+    "num": 79,
+    "pol": "P",
+    "ref": "DEU 6:8",
+    "concept": "Wear tefillin (phylacteries) on the head"
+  },
+  {
+    "num": 80,
+    "pol": "P",
+    "ref": "DEU 6:8",
+    "concept": "Bind tefillin on the arm"
+  },
+  {
+    "num": 81,
+    "pol": "P",
+    "ref": "DEU 6:9",
+    "concept": "Put the commandments on each door post"
+  },
+  {
+    "num": 82,
+    "pol": "P",
+    "ref": "DEU 31:19",
+    "concept": "Each male must write a scroll of the Law"
+  },
+  {
+    "num": 83,
+    "pol": "P",
+    "ref": "DEU 17:18",
+    "concept": "The king must have a separate book of the Law for himself"
+  },
+  {
+    "num": 84,
+    "pol": "P",
+    "ref": "NUM 15:38",
+    "concept": "Have tzitzit on four-cornered garments"
+  },
+  {
+    "num": 85,
+    "pol": "P",
+    "ref": "DEU 8:10",
+    "concept": "Bless the Almighty after eating"
+  },
+  {
+    "num": 86,
+    "pol": "P",
+    "ref": "LEV 12:3",
+    "concept": "Circumcise all males on the eighth day after their birth"
+  },
+  {
+    "num": 87,
+    "pol": "P",
+    "ref": "EXO 23:12",
+    "concept": "Rest on the seventh day Sabbath"
+  },
+  {
+    "num": 88,
+    "pol": "N",
+    "ref": "EXO 20:10",
+    "concept": "Do not do prohibited labor on the seventh day Sabbath"
+  },
+  {
+    "num": 89,
+    "pol": "N",
+    "ref": "EXO 35:3",
+    "concept": "The court must not inflict punishment on the Sabbath"
+  },
+  {
+    "num": 90,
+    "pol": "N",
+    "ref": "EXO 16:29",
+    "concept": "Do not walk outside the city boundary on the Sabbath"
+  },
+  {
+    "num": 91,
+    "pol": "P",
+    "ref": "EXO 20:8",
+    "concept": "Sanctify the Sabbath (in speech) from beginning to end"
+  },
+  {
+    "num": 92,
+    "pol": "N",
+    "ref": "LEV 23:32",
+    "concept": "Do not do prohibited labor on the Day of Atonement"
+  },
+  {
+    "num": 93,
+    "pol": "P",
+    "ref": "LEV 23:32",
+    "concept": "Rest from prohibited labor on the Day of Atonement"
+  },
+  {
+    "num": 94,
+    "pol": "P",
+    "ref": "LEV 16:29",
+    "concept": "Afflict yourself on the Day of Atonement"
+  },
+  {
+    "num": 95,
+    "pol": "N",
+    "ref": "LEV 23:29",
+    "concept": "Do not eat or drink on the Day of Atonement"
+  },
+  {
+    "num": 96,
+    "pol": "P",
+    "ref": "LEV 23:7",
+    "concept": "Rest on the first day of Passover"
+  },
+  {
+    "num": 97,
+    "pol": "N",
+    "ref": "LEV 23:7",
+    "concept": "Do not do prohibited labor on the first day of Passover"
+  },
+  {
+    "num": 98,
+    "pol": "P",
+    "ref": "LEV 23:8",
+    "concept": "Rest on the seventh day of Passover"
+  },
+  {
+    "num": 99,
+    "pol": "N",
+    "ref": "LEV 23:8",
+    "concept": "Do not do prohibited labor on the seventh day of Passover"
+  },
+  {
+    "num": 100,
+    "pol": "P",
+    "ref": "LEV 23:21",
+    "concept": "Rest on the Feast of Weeks"
+  },
+  {
+    "num": 101,
+    "pol": "N",
+    "ref": "LEV 23:21",
+    "concept": "Do not do prohibited labor on the Feast of Weeks"
+  },
+  {
+    "num": 102,
+    "pol": "P",
+    "ref": "LEV 23:24",
+    "concept": "Rest on the Feast of Trumpets"
+  },
+  {
+    "num": 103,
+    "pol": "N",
+    "ref": "LEV 23:25",
+    "concept": "Do not do prohibited labor on the Feast of Trumpets"
+  },
+  {
+    "num": 104,
+    "pol": "P",
+    "ref": "LEV 23:35",
+    "concept": "Rest on the Feast of Tabernacles"
+  },
+  {
+    "num": 105,
+    "pol": "N",
+    "ref": "LEV 23:35",
+    "concept": "Do not do prohibited labor on the first day of the Feast of Tabernacles"
+  },
+  {
+    "num": 106,
+    "pol": "P",
+    "ref": "LEV 23:36",
+    "concept": "Rest on the eighth day of the Feast of Tabernacles"
+  },
+  {
+    "num": 107,
+    "pol": "N",
+    "ref": "LEV 23:36",
+    "concept": "Do not do prohibited labor on the last day of the Feast of Tabernacles"
+  },
+  {
+    "num": 108,
+    "pol": "N",
+    "ref": "DEU 16:3",
+    "concept": "Do not eat leavened food on the afternoon of the 14th day of Nisan"
+  },
+  {
+    "num": 109,
+    "pol": "P",
+    "ref": "EXO 12:15",
+    "concept": "Destroy all leaven on 14th day of Nisan"
+  },
+  {
+    "num": 110,
+    "pol": "N",
+    "ref": "EXO 13:3",
+    "concept": "Do not eat leaven all seven days of Passover"
+  },
+  {
+    "num": 111,
+    "pol": "N",
+    "ref": "EXO 12:20",
+    "concept": "Do not eat mixtures containing leaven all seven days of Passover"
+  },
+  {
+    "num": 112,
+    "pol": "N",
+    "ref": "EXO 13:7",
+    "concept": "Do not see leaven in your domain seven days during Passover"
+  },
+  {
+    "num": 113,
+    "pol": "N",
+    "ref": "EXO 12:19",
+    "concept": "Do not find leaven in your domain seven days during Passover"
+  },
+  {
+    "num": 114,
+    "pol": "P",
+    "ref": "EXO 12:18",
+    "concept": "Eat unleavened bread on the first night of Passover"
+  },
+  {
+    "num": 115,
+    "pol": "P",
+    "ref": "EXO 13:8",
+    "concept": "Relate the Exodus from Egypt on the fIrst night Passover"
+  },
+  {
+    "num": 116,
+    "pol": "P",
+    "ref": "NUM 29:1",
+    "concept": "Hear the ram's horn on the Feast of Trumpets"
+  },
+  {
+    "num": 117,
+    "pol": "P",
+    "ref": "LEV 23:42",
+    "concept": "Dwell in a temporary shelter for the seven days of the Feast of Tabernacles"
+  },
+  {
+    "num": 118,
+    "pol": "P",
+    "ref": "LEV 23:40",
+    "concept": "Take up a Lulav and Etrog all seven days of the Feast of Tabernacles"
+  },
+  {
+    "num": 119,
+    "pol": "P",
+    "ref": "EXO 30:13",
+    "concept": "Each male Israelite must give a half shekel annually"
+  },
+  {
+    "num": 120,
+    "pol": "P",
+    "ref": "EXO 12:2",
+    "concept": "The month of Passover (Nisan) shall be the first month"
+  },
+  {
+    "num": 121,
+    "pol": "P",
+    "ref": "NUM 10:9",
+    "concept": "To afflict and cry out before G-d in times of catastrophe"
+  },
+  {
+    "num": 122,
+    "pol": "P",
+    "ref": "DEU 22:13",
+    "concept": "Marry a wife by means of a marriage agreement and sanctification"
+  },
+  {
+    "num": 123,
+    "pol": "N",
+    "ref": "DEU 23:18",
+    "concept": "Do not have sexual relations with women not married by means of a marriage agreement and sanctification"
+  },
+  {
+    "num": 124,
+    "pol": "N",
+    "ref": "EXO 21:10",
+    "concept": "Do not withhold food, clothing, and sexual relations from your wife"
+  },
+  {
+    "num": 125,
+    "pol": "P",
+    "ref": "GEN 1:28",
+    "concept": "Have children with one's wife"
+  },
+  {
+    "num": 126,
+    "pol": "P",
+    "ref": "DEU 24:1",
+    "concept": "Issue a divorce by means of a \"get\" document"
+  },
+  {
+    "num": 127,
+    "pol": "N",
+    "ref": "DEU 24:4",
+    "concept": "A man must not remarry his ex-wife after she has married someone else"
+  },
+  {
+    "num": 128,
+    "pol": "P",
+    "ref": "DEU 25:5",
+    "concept": "A man must marry the widow of his childless brother"
+  },
+  {
+    "num": 129,
+    "pol": "P",
+    "ref": "DEU 25:9",
+    "concept": "A man must free the widow of his childless brother from the obligation to marry him if he is unwilling to marry her"
+  },
+  {
+    "num": 130,
+    "pol": "N",
+    "ref": "DEU 25:5",
+    "concept": "A childless widow must not remarry until the ties with her brother-in-law are removed"
+  },
+  {
+    "num": 131,
+    "pol": "P",
+    "ref": "EXO 22:16",
+    "concept": "The court must fine one who sexually seduces a maiden"
+  },
+  {
+    "num": 132,
+    "pol": "P",
+    "ref": "DEU 22:29",
+    "concept": "One who seduces a maiden must marry the maiden if she chooses"
+  },
+  {
+    "num": 133,
+    "pol": "N",
+    "ref": "DEU 22:29",
+    "concept": "A seducer that marries the maiden he seduces must not divorce her"
+  },
+  {
+    "num": 134,
+    "pol": "P",
+    "ref": "DEU 22:19",
+    "concept": "A man who slanders his wife with accusations of adultery must remain married to his wife"
+  },
+  {
+    "num": 135,
+    "pol": "N",
+    "ref": "DEU 22:19",
+    "concept": "A man who slanders his wife with accusations of adultery must not divorce her"
+  },
+  {
+    "num": 136,
+    "pol": "P",
+    "ref": "NUM 5:30",
+    "concept": "Fulfill the laws of the woman suspected of adultery"
+  },
+  {
+    "num": 137,
+    "pol": "N",
+    "ref": "NUM 5:15",
+    "concept": "Do not put oil on the meal offering of a woman suspected of adultery"
+  },
+  {
+    "num": 138,
+    "pol": "N",
+    "ref": "NUM 5:15",
+    "concept": "Do not put frankincense on the meal offering of a woman suspected of adultery"
+  },
+  {
+    "num": 139,
+    "pol": "N",
+    "ref": "LEV 18:7",
+    "concept": "Do not have sexual relations with your mother"
+  },
+  {
+    "num": 140,
+    "pol": "N",
+    "ref": "LEV 18:8",
+    "concept": "Do not have sexual relations with your father's wife"
+  },
+  {
+    "num": 141,
+    "pol": "N",
+    "ref": "LEV 18:9",
+    "concept": "Do not have sexual relations with your sister"
+  },
+  {
+    "num": 142,
+    "pol": "N",
+    "ref": "LEV 18:11",
+    "concept": "Do not have sexual relations with your father's wife's daughter"
+  },
+  {
+    "num": 143,
+    "pol": "N",
+    "ref": "LEV 18:10",
+    "concept": "Do not have sexual relations with your son's daughter"
+  },
+  {
+    "num": 144,
+    "pol": "N",
+    "ref": "LEV 18:6",
+    "concept": "Do not have sexual relations with your daughter"
+  },
+  {
+    "num": 145,
+    "pol": "N",
+    "ref": "LEV 18:10",
+    "concept": "Do not have sexual relations with your daughter's daughter"
+  },
+  {
+    "num": 146,
+    "pol": "N",
+    "ref": "LEV 18:17",
+    "concept": "Do not have sexual relations with a woman and her daughter"
+  },
+  {
+    "num": 147,
+    "pol": "N",
+    "ref": "LEV 18:17",
+    "concept": "Do not have sexual relations with a woman and her son's daughter"
+  },
+  {
+    "num": 148,
+    "pol": "N",
+    "ref": "LEV 18:17",
+    "concept": "Do not have sexual relations with a woman and her daughter's daughter"
+  },
+  {
+    "num": 149,
+    "pol": "N",
+    "ref": "LEV 18:12",
+    "concept": "Do not have sexual relations with your father's sister"
+  },
+  {
+    "num": 150,
+    "pol": "N",
+    "ref": "LEV 18:13",
+    "concept": "Do not have sexual relations with your mother's sister"
+  },
+  {
+    "num": 151,
+    "pol": "N",
+    "ref": "LEV 18:14",
+    "concept": "Do not have sexual relations with your father's brother's wife"
+  },
+  {
+    "num": 152,
+    "pol": "N",
+    "ref": "LEV 18:15",
+    "concept": "Do not have sexual relations with your son's wife"
+  },
+  {
+    "num": 153,
+    "pol": "N",
+    "ref": "LEV 18:16",
+    "concept": "Do not have sexual relations with your brother's wife"
+  },
+  {
+    "num": 154,
+    "pol": "N",
+    "ref": "LEV 18:18",
+    "concept": "Do not have sexual relations with your wife's sister"
+  },
+  {
+    "num": 155,
+    "pol": "N",
+    "ref": "LEV 18:23",
+    "concept": "A man must not have sexual relations with an animal"
+  },
+  {
+    "num": 156,
+    "pol": "N",
+    "ref": "LEV 18:23",
+    "concept": "A woman must not have sexual relations with an animal"
+  },
+  {
+    "num": 157,
+    "pol": "N",
+    "ref": "LEV 18:22",
+    "concept": "Do not have homosexual sexual relations"
+  },
+  {
+    "num": 158,
+    "pol": "N",
+    "ref": "LEV 18:7",
+    "concept": "Do not have homosexual sexual relations with your father"
+  },
+  {
+    "num": 159,
+    "pol": "N",
+    "ref": "LEV 18:14",
+    "concept": "Do not have homosexual sexual relations with your father's brother"
+  },
+  {
+    "num": 160,
+    "pol": "N",
+    "ref": "LEV 18:20",
+    "concept": "Do not have sexual relations with someone else's wife"
+  },
+  {
+    "num": 161,
+    "pol": "N",
+    "ref": "LEV 18:19",
+    "concept": "Do not have sexual relations with a menstrually impure woman"
+  },
+  {
+    "num": 162,
+    "pol": "N",
+    "ref": "DEU 7:3",
+    "concept": "Do not marry those who are not members of the Covenant"
+  },
+  {
+    "num": 163,
+    "pol": "N",
+    "ref": "DEU 23:4",
+    "concept": "Do not let Moabite and Ammonite males marry into the Covenant people"
+  },
+  {
+    "num": 164,
+    "pol": "N",
+    "ref": "DEU 23:7",
+    "concept": "Do not prevent a third-generation Egyptian convert from marrying into the Covenant people"
+  },
+  {
+    "num": 165,
+    "pol": "N",
+    "ref": "DEU 23:7",
+    "concept": "Do not refrain from marrying a third generation Edomite convert"
+  },
+  {
+    "num": 166,
+    "pol": "N",
+    "ref": "DEU 23:3",
+    "concept": "Do not let a child born due to an illegal relationship marry into the Covenant people"
+  },
+  {
+    "num": 167,
+    "pol": "N",
+    "ref": "DEU 23:1",
+    "concept": "Do not let a eunuch marry into the Covenant people"
+  },
+  {
+    "num": 168,
+    "pol": "N",
+    "ref": "LEV 22:24",
+    "concept": "Do not offer to G-d any castrated male animals"
+  },
+  {
+    "num": 169,
+    "pol": "N",
+    "ref": "LEV 21:14",
+    "concept": "The high priest must not marry a widow"
+  },
+  {
+    "num": 170,
+    "pol": "N",
+    "ref": "LEV 21:15",
+    "concept": "The high priest must not have sexual relations with a widow even outside of marriage"
+  },
+  {
+    "num": 171,
+    "pol": "P",
+    "ref": "LEV 21:13",
+    "concept": "The high priest must marry a virgin maiden"
+  },
+  {
+    "num": 172,
+    "pol": "N",
+    "ref": "LEV 21:7",
+    "concept": "A priest must not marry a divorcee"
+  },
+  {
+    "num": 173,
+    "pol": "N",
+    "ref": "LEV 21:7",
+    "concept": "A priest must not marry a woman who has had a forbidden sexual relationship"
+  },
+  {
+    "num": 174,
+    "pol": "N",
+    "ref": "LEV 21:7",
+    "concept": "A priest must not marry a desecrated woman"
+  },
+  {
+    "num": 175,
+    "pol": "N",
+    "ref": "LEV 18:6",
+    "concept": "Do not make pleasurable (sexual) contact with any forbidden woman"
+  },
+  {
+    "num": 176,
+    "pol": "P",
+    "ref": "LEV 11:2",
+    "concept": "Examine the signs of animals to distinguish between those which are kosher and non-kosher"
+  },
+  {
+    "num": 177,
+    "pol": "P",
+    "ref": "DEU 14:11",
+    "concept": "Examine the signs of fowl to distinguish between those which are kosher and non-kosher"
+  },
+  {
+    "num": 178,
+    "pol": "P",
+    "ref": "LEV 11:9",
+    "concept": "Examine the signs of fish to distinguish between those which are kosher and non-kosher"
+  },
+  {
+    "num": 179,
+    "pol": "P",
+    "ref": "LEV 11:21",
+    "concept": "Examine the signs of insects to distinguish between those which are kosher and non-kosher"
+  },
+  {
+    "num": 180,
+    "pol": "N",
+    "ref": "LEV 11:4",
+    "concept": "Do not eat non-kosher animals"
+  },
+  {
+    "num": 181,
+    "pol": "N",
+    "ref": "LEV 11:13",
+    "concept": "Do not eat non-kosher fowl"
+  },
+  {
+    "num": 182,
+    "pol": "N",
+    "ref": "LEV 11:11",
+    "concept": "Do not eat non-kosher fish"
+  },
+  {
+    "num": 183,
+    "pol": "N",
+    "ref": "DEU 14:19",
+    "concept": "Do not eat non-kosher flying insects"
+  },
+  {
+    "num": 184,
+    "pol": "N",
+    "ref": "LEV 11:41",
+    "concept": "Do not eat non-kosher creatures that crawl on land"
+  },
+  {
+    "num": 185,
+    "pol": "N",
+    "ref": "LEV 11:44",
+    "concept": "Do not eat non-kosher vermin"
+  },
+  {
+    "num": 186,
+    "pol": "N",
+    "ref": "LEV 11:42",
+    "concept": "Do not eat worms found in fruit on the ground"
+  },
+  {
+    "num": 187,
+    "pol": "N",
+    "ref": "LEV 11:43",
+    "concept": "Do not eat creatures that live in water other than kosher fish"
+  },
+  {
+    "num": 188,
+    "pol": "N",
+    "ref": "DEU 14:21",
+    "concept": "Do not eat of an animal that dies of natural causes"
+  },
+  {
+    "num": 189,
+    "pol": "N",
+    "ref": "EXO 21:28",
+    "concept": "Do not benefit from an ox condemned to be stoned"
+  },
+  {
+    "num": 190,
+    "pol": "N",
+    "ref": "EXO 22:31",
+    "concept": "Do not eat meat of an animal that was mortally wounded"
+  },
+  {
+    "num": 191,
+    "pol": "N",
+    "ref": "DEU 12:23",
+    "concept": "Do not eat meat torn off a living creature"
+  },
+  {
+    "num": 192,
+    "pol": "N",
+    "ref": "LEV 3:17",
+    "concept": "Do not eat blood"
+  },
+  {
+    "num": 193,
+    "pol": "N",
+    "ref": "LEV 3:17",
+    "concept": "Do not eat certain fats of clean animals"
+  },
+  {
+    "num": 194,
+    "pol": "N",
+    "ref": "GEN 32:32",
+    "concept": "Do not eat the sinew of the thigh"
+  },
+  {
+    "num": 195,
+    "pol": "N",
+    "ref": "EXO 23:19",
+    "concept": "Do not eat meat and milk cooked together"
+  },
+  {
+    "num": 196,
+    "pol": "N",
+    "ref": "EXO 34:26",
+    "concept": "Do not cook meat and milk together"
+  },
+  {
+    "num": 197,
+    "pol": "N",
+    "ref": "LEV 23:14",
+    "concept": "Do not eat bread from new grain before the Omer"
+  },
+  {
+    "num": 198,
+    "pol": "N",
+    "ref": "LEV 23:14",
+    "concept": "Do not eat parched grains from new grain before the Omer"
+  },
+  {
+    "num": 199,
+    "pol": "N",
+    "ref": "LEV 23:14",
+    "concept": "Do not eat ripened grains from new grain before the Omer"
+  },
+  {
+    "num": 200,
+    "pol": "N",
+    "ref": "LEV 19:23",
+    "concept": "Do not eat fruit of a tree during its first three years"
+  },
+  {
+    "num": 201,
+    "pol": "N",
+    "ref": "DEU 22:9",
+    "concept": "Do not eat diverse seeds planted in a vineyard"
+  },
+  {
+    "num": 202,
+    "pol": "N",
+    "ref": "LEV 22:14",
+    "concept": "Do not eat untithed fruits"
+  },
+  {
+    "num": 203,
+    "pol": "N",
+    "ref": "DEU 32:38",
+    "concept": "Do not drink wine poured in service to idols"
+  },
+  {
+    "num": 204,
+    "pol": "P",
+    "ref": "DEU 12:21",
+    "concept": "Ritually slaughter an animal before eating it"
+  },
+  {
+    "num": 205,
+    "pol": "N",
+    "ref": "LEV 22:28",
+    "concept": "Do not slaughter an animal and its offspring on the same day"
+  },
+  {
+    "num": 206,
+    "pol": "P",
+    "ref": "LEV 17:13",
+    "concept": "Cover the blood of a slaughtered beast or fowl with earth"
+  },
+  {
+    "num": 207,
+    "pol": "N",
+    "ref": "DEU 22:6",
+    "concept": "Do not take a mother bird with its children"
+  },
+  {
+    "num": 208,
+    "pol": "P",
+    "ref": "DEU 22:7",
+    "concept": "Release a mother bird before taking her children from the nest"
+  },
+  {
+    "num": 209,
+    "pol": "N",
+    "ref": "LEV 19:12",
+    "concept": "Do not swear falsely in G-d's Name"
+  },
+  {
+    "num": 210,
+    "pol": "N",
+    "ref": "EXO 20:7",
+    "concept": "Do not take G-d's Name in vain"
+  },
+  {
+    "num": 211,
+    "pol": "N",
+    "ref": "LEV 19:11",
+    "concept": "Do not deny possession of something entrusted to you"
+  },
+  {
+    "num": 212,
+    "pol": "N",
+    "ref": "LEV 19:11",
+    "concept": "Do not falsely swear in denial of a claim to property"
+  },
+  {
+    "num": 213,
+    "pol": "P",
+    "ref": "DEU 10:20",
+    "concept": "Swear in G-d's Name to confirm the truth when deemed necessary by court"
+  },
+  {
+    "num": 214,
+    "pol": "P",
+    "ref": "DEU 23:23",
+    "concept": "Fulfill what you uttered and do what you vowed"
+  },
+  {
+    "num": 215,
+    "pol": "N",
+    "ref": "NUM 30:2",
+    "concept": "Do not break oaths or vows"
+  },
+  {
+    "num": 216,
+    "pol": "P",
+    "ref": "NUM 30:3",
+    "concept": "For oaths and vows annulled, there are the laws of annulling vows explicit in the Law"
+  },
+  {
+    "num": 217,
+    "pol": "P",
+    "ref": "NUM 6:5",
+    "concept": "The nazarite must let his hair grow"
+  },
+  {
+    "num": 218,
+    "pol": "N",
+    "ref": "NUM 6:5",
+    "concept": "The nazarite must not cut his hair"
+  },
+  {
+    "num": 219,
+    "pol": "N",
+    "ref": "NUM 6:3",
+    "concept": "The nazarite must not drink wine, wine mixtures, or wine vinegar"
+  },
+  {
+    "num": 220,
+    "pol": "N",
+    "ref": "NUM 6:3",
+    "concept": "The nazarite must not eat fresh grapes"
+  },
+  {
+    "num": 221,
+    "pol": "N",
+    "ref": "NUM 6:3",
+    "concept": "The nazarite must not eat raisins"
+  },
+  {
+    "num": 222,
+    "pol": "N",
+    "ref": "NUM 6:4",
+    "concept": "The nazarite must not eat grape seeds"
+  },
+  {
+    "num": 223,
+    "pol": "N",
+    "ref": "NUM 6:4",
+    "concept": "The nazarite must not eat grape skins"
+  },
+  {
+    "num": 224,
+    "pol": "N",
+    "ref": "NUM 6:6",
+    "concept": "The nazarite must not be under the same roof as a corpse"
+  },
+  {
+    "num": 225,
+    "pol": "N",
+    "ref": "NUM 6:7",
+    "concept": "The nazarite must not come into contact with the dead"
+  },
+  {
+    "num": 226,
+    "pol": "P",
+    "ref": "NUM 6:18",
+    "concept": "The nazarite must shave his head after bringing sacrifices upon completion of his nazarite period"
+  },
+  {
+    "num": 227,
+    "pol": "P",
+    "ref": "LEV 27:2",
+    "concept": "Estimate the value of people as determined by the Law"
+  },
+  {
+    "num": 228,
+    "pol": "P",
+    "ref": "LEV 27:12",
+    "concept": "Estimate the value of consecrated animals"
+  },
+  {
+    "num": 229,
+    "pol": "P",
+    "ref": "LEV 27:14",
+    "concept": "Estimate the value of consecrated houses"
+  },
+  {
+    "num": 230,
+    "pol": "P",
+    "ref": "LEV 27:16",
+    "concept": "Estimate the value of consecrated fields"
+  },
+  {
+    "num": 231,
+    "pol": "P",
+    "ref": "LEV 27:28",
+    "concept": "Carry out the laws of interdicting possessions"
+  },
+  {
+    "num": 232,
+    "pol": "N",
+    "ref": "LEV 27:28",
+    "concept": "Do not sell interdicted possessions"
+  },
+  {
+    "num": 233,
+    "pol": "N",
+    "ref": "LEV 27:28",
+    "concept": "Do not redeem interdicted possessions"
+  },
+  {
+    "num": 234,
+    "pol": "N",
+    "ref": "LEV 19:19",
+    "concept": "Do not plant diverse seeds together"
+  },
+  {
+    "num": 235,
+    "pol": "N",
+    "ref": "DEU 22:9",
+    "concept": "Do not plant grains or greens in a vineyard"
+  },
+  {
+    "num": 236,
+    "pol": "N",
+    "ref": "LEV 19:19",
+    "concept": "Do not crossbreed animals"
+  },
+  {
+    "num": 237,
+    "pol": "N",
+    "ref": "DEU 22:10",
+    "concept": "Do not work different animals together"
+  },
+  {
+    "num": 238,
+    "pol": "N",
+    "ref": "DEU 22:11",
+    "concept": "Do not wear cloth woven of wool and linen"
+  },
+  {
+    "num": 239,
+    "pol": "P",
+    "ref": "LEV 19:10",
+    "concept": "Leave a corner of the field uncut for the poor"
+  },
+  {
+    "num": 240,
+    "pol": "N",
+    "ref": "LEV 19:9",
+    "concept": "Do not reap the corner of a field left for the poor"
+  },
+  {
+    "num": 241,
+    "pol": "P",
+    "ref": "LEV 19:9",
+    "concept": "Leave gleanings of a field for the poor"
+  },
+  {
+    "num": 242,
+    "pol": "N",
+    "ref": "LEV 19:9",
+    "concept": "Do not gather gleanings of a crop but leave them for the poor"
+  },
+  {
+    "num": 243,
+    "pol": "P",
+    "ref": "LEV 19:10",
+    "concept": "Leave the gleanings of a vineyard for the poor"
+  },
+  {
+    "num": 244,
+    "pol": "N",
+    "ref": "LEV 19:10",
+    "concept": "Do not gather the gleanings of a vineyard but leave them for the poor"
+  },
+  {
+    "num": 245,
+    "pol": "P",
+    "ref": "LEV 19:10",
+    "concept": "Leave the unformed clusters of grapes for the poor"
+  },
+  {
+    "num": 246,
+    "pol": "N",
+    "ref": "LEV 19:10",
+    "concept": "Do not pick the unformed clusters of grapes but leave them for the poor"
+  },
+  {
+    "num": 247,
+    "pol": "P",
+    "ref": "DEU 24:19",
+    "concept": "Leave the forgotten sheaves in the field for the poor"
+  },
+  {
+    "num": 248,
+    "pol": "N",
+    "ref": "DEU 24:19",
+    "concept": "Do not retrieve sheaves forgotten in the field but leave them for the poor"
+  },
+  {
+    "num": 249,
+    "pol": "P",
+    "ref": "DEU 14:28",
+    "concept": "Separate the tithe for the poor"
+  },
+  {
+    "num": 250,
+    "pol": "P",
+    "ref": "DEU 15:8",
+    "concept": "Give charity to those in need"
+  },
+  {
+    "num": 251,
+    "pol": "N",
+    "ref": "DEU 15:7",
+    "concept": "Do not withhold charity from the poor"
+  },
+  {
+    "num": 252,
+    "pol": "P",
+    "ref": "DEU 18:4",
+    "concept": "Set aside a gift of food for the priest"
+  },
+  {
+    "num": 253,
+    "pol": "P",
+    "ref": "NUM 18:26",
+    "concept": "The Levite must set aside a tenth of his tithe for the priest"
+  },
+  {
+    "num": 254,
+    "pol": "N",
+    "ref": "EXO 22:29",
+    "concept": "Do not preface one tithe to the next, but separate them in their proper order"
+  },
+  {
+    "num": 255,
+    "pol": "N",
+    "ref": "LEV 22:10",
+    "concept": "A non- priest must not eat food set aside as a gift for the priest"
+  },
+  {
+    "num": 256,
+    "pol": "N",
+    "ref": "LEV 22:10",
+    "concept": "A hired worker or an Israelite bondsman of a priest must not eat food set aside as a gift for the priest"
+  },
+  {
+    "num": 257,
+    "pol": "N",
+    "ref": "EXO 12:48",
+    "concept": "An uncircumcised priest must not eat food set aside for a priest"
+  },
+  {
+    "num": 258,
+    "pol": "N",
+    "ref": "LEV 22:4",
+    "concept": "An impure priest must not eat food set aside for a priest"
+  },
+  {
+    "num": 259,
+    "pol": "N",
+    "ref": "LEV 22:12",
+    "concept": "A desecrated woman must not eat food set aside for a priest"
+  },
+  {
+    "num": 260,
+    "pol": "P",
+    "ref": "NUM 18:24",
+    "concept": "Set aside a tithe each planting year and give it to a Levite"
+  },
+  {
+    "num": 261,
+    "pol": "P",
+    "ref": "DEU 14:22",
+    "concept": "Set aside the second tithe"
+  },
+  {
+    "num": 262,
+    "pol": "N",
+    "ref": "DEU 26:14",
+    "concept": "Do not spend the money from selling the second tithe on anything but food, drink, or ointment in Jerusalem"
+  },
+  {
+    "num": 263,
+    "pol": "N",
+    "ref": "DEU 26:14",
+    "concept": "Do not eat the second tithe while impure"
+  },
+  {
+    "num": 264,
+    "pol": "N",
+    "ref": "DEU 26:14",
+    "concept": "A mourner on the first day after a death must not eat the second tithe"
+  },
+  {
+    "num": 265,
+    "pol": "N",
+    "ref": "DEU 12:17",
+    "concept": "Do not eat second tithe grains outside Jerusalem"
+  },
+  {
+    "num": 266,
+    "pol": "N",
+    "ref": "DEU 12:17",
+    "concept": "Do not eat second tithe wine products outside Jerusalem"
+  },
+  {
+    "num": 267,
+    "pol": "N",
+    "ref": "DEU 12:17",
+    "concept": "Do not eat second tithe oil outside Jerusalem"
+  },
+  {
+    "num": 268,
+    "pol": "P",
+    "ref": "LEV 19:24",
+    "concept": "The fourth year crops must be totally for holy purposes like the second tithe"
+  },
+  {
+    "num": 269,
+    "pol": "P",
+    "ref": "DEU 26:13",
+    "concept": "Read the confession of tithes every fourth and seventh year"
+  },
+  {
+    "num": 270,
+    "pol": "P",
+    "ref": "EXO 23:19",
+    "concept": "Set aside the first fruits and bring them to the Temple"
+  },
+  {
+    "num": 271,
+    "pol": "N",
+    "ref": "DEU 12:17",
+    "concept": "The priests must not eat the first fruits outside Jerusalem"
+  },
+  {
+    "num": 272,
+    "pol": "P",
+    "ref": "DEU 26:5",
+    "concept": "Read the portion of Scripture pertaining to the presentation of first fruits"
+  },
+  {
+    "num": 273,
+    "pol": "P",
+    "ref": "NUM 15:20",
+    "concept": "Set aside a portion of dough for a priest"
+  },
+  {
+    "num": 274,
+    "pol": "P",
+    "ref": "DEU 18:3",
+    "concept": "Give the shoulder, two cheeks, and stomach of a slaughtered animals to a priest"
+  },
+  {
+    "num": 275,
+    "pol": "P",
+    "ref": "DEU 18:4",
+    "concept": "Give the first shearing of sheep to a priest"
+  },
+  {
+    "num": 276,
+    "pol": "P",
+    "ref": "NUM 18:15",
+    "concept": "Redeem firstborn sons and give the money to a priest"
+  },
+  {
+    "num": 277,
+    "pol": "P",
+    "ref": "EXO 13:13",
+    "concept": "Redeem the firstborn donkey by giving a lamb to a priest"
+  },
+  {
+    "num": 278,
+    "pol": "P",
+    "ref": "EXO 13:13",
+    "concept": "Break the neck of the donkey if the owner does not intend to redeem it"
+  },
+  {
+    "num": 279,
+    "pol": "P",
+    "ref": "EXO 34:21",
+    "concept": "The land shall rest unworked during the seventh year"
+  },
+  {
+    "num": 280,
+    "pol": "N",
+    "ref": "LEV 25:4",
+    "concept": "Do not work the land during the seventh year"
+  },
+  {
+    "num": 281,
+    "pol": "N",
+    "ref": "LEV 25:4",
+    "concept": "Do not work with trees to produce fruit during the seventh year"
+  },
+  {
+    "num": 282,
+    "pol": "N",
+    "ref": "LEV 25:5",
+    "concept": "Do not reap crops that grow wild during the seventh year in the normal manner"
+  },
+  {
+    "num": 283,
+    "pol": "N",
+    "ref": "LEV 25:5",
+    "concept": "Do not gather grapes which grow wild during the seventh year in the normal way"
+  },
+  {
+    "num": 284,
+    "pol": "P",
+    "ref": "EXO 23:11",
+    "concept": "Leave free all produce which grew in the seventh year"
+  },
+  {
+    "num": 285,
+    "pol": "P",
+    "ref": "DEU 15:2",
+    "concept": "Release all loans during the seventh year"
+  },
+  {
+    "num": 286,
+    "pol": "N",
+    "ref": "DEU 15:2",
+    "concept": "Do not pressure or claim from the borrower during the seventh year"
+  },
+  {
+    "num": 287,
+    "pol": "N",
+    "ref": "DEU 15:9",
+    "concept": "Do not refrain from lending immediately before the release of the loans for fear of monetary loss"
+  },
+  {
+    "num": 288,
+    "pol": "P",
+    "ref": "LEV 25:8",
+    "concept": "The Sanhedrin must count seven groups of seven years"
+  },
+  {
+    "num": 289,
+    "pol": "P",
+    "ref": "LEV 25:10",
+    "concept": "The Sanhedrin must sanctify the fiftieth year"
+  },
+  {
+    "num": 290,
+    "pol": "P",
+    "ref": "LEV 25:9",
+    "concept": "Blow the ram's horn on the tenth day of the seventh month to free the slaves"
+  },
+  {
+    "num": 291,
+    "pol": "N",
+    "ref": "LEV 25:11",
+    "concept": "Do not work the soil during the fiftieth year"
+  },
+  {
+    "num": 292,
+    "pol": "N",
+    "ref": "LEV 25:11",
+    "concept": "Do not reap in the normal manner that which grows wild in the fiftieth year"
+  },
+  {
+    "num": 293,
+    "pol": "N",
+    "ref": "LEV 25:11",
+    "concept": "Do not pick grapes which grew wild in the normal manner in the fiftieth year"
+  },
+  {
+    "num": 294,
+    "pol": "P",
+    "ref": "LEV 25:24",
+    "concept": "Carry out the laws of sold family properties in the fiftieth year"
+  },
+  {
+    "num": 295,
+    "pol": "N",
+    "ref": "LEV 25:23",
+    "concept": "Do not sell the land in Israel indefinitely"
+  },
+  {
+    "num": 296,
+    "pol": "P",
+    "ref": "LEV 25:29",
+    "concept": "Carry out the laws of houses in walled cities"
+  },
+  {
+    "num": 297,
+    "pol": "N",
+    "ref": "DEU 18:1",
+    "concept": "The Tribe of Levi must not be given a portion of the land in Israel"
+  },
+  {
+    "num": 298,
+    "pol": "N",
+    "ref": "DEU 18:1",
+    "concept": "The Levites must not take a share in the spoils of war"
+  },
+  {
+    "num": 299,
+    "pol": "P",
+    "ref": "NUM 35:2",
+    "concept": "Give the Levites cities to inhabit and their surrounding fields"
+  },
+  {
+    "num": 300,
+    "pol": "N",
+    "ref": "LEV 25:34",
+    "concept": "Do not sell the fields of the Levites but they shall belong to Levites before and after the Jubilee year"
+  },
+  {
+    "num": 301,
+    "pol": "P",
+    "ref": "EXO 25:8",
+    "concept": "Build a Sanctuary (Tabernacle-Temple)"
+  },
+  {
+    "num": 302,
+    "pol": "N",
+    "ref": "EXO 20:25",
+    "concept": "Do not build the altar with stones hewn by metal"
+  },
+  {
+    "num": 303,
+    "pol": "N",
+    "ref": "EXO 20:26",
+    "concept": "Do not climb steps to the altar"
+  },
+  {
+    "num": 304,
+    "pol": "P",
+    "ref": "LEV 19:30",
+    "concept": "Show reverence to the Temple"
+  },
+  {
+    "num": 305,
+    "pol": "P",
+    "ref": "NUM 18:2",
+    "concept": "Guard the Temple area"
+  },
+  {
+    "num": 306,
+    "pol": "N",
+    "ref": "NUM 18:5",
+    "concept": "Do not leave the Temple unguarded"
+  },
+  {
+    "num": 307,
+    "pol": "P",
+    "ref": "EXO 30:31",
+    "concept": "Prepare the anointing oil"
+  },
+  {
+    "num": 308,
+    "pol": "N",
+    "ref": "EXO 30:32",
+    "concept": "Do not reproduce the anointing oil"
+  },
+  {
+    "num": 309,
+    "pol": "N",
+    "ref": "EXO 30:32",
+    "concept": "Do not anoint a foreigner with anointing oil"
+  },
+  {
+    "num": 310,
+    "pol": "N",
+    "ref": "EXO 30:37",
+    "concept": "Do not reproduce the incense formula"
+  },
+  {
+    "num": 311,
+    "pol": "N",
+    "ref": "EXO 30:9",
+    "concept": "Do not burn anything on the Golden Altar besides incense"
+  },
+  {
+    "num": 312,
+    "pol": "P",
+    "ref": "NUM 7:9",
+    "concept": "The Levites must transport the ark on their shoulders"
+  },
+  {
+    "num": 313,
+    "pol": "N",
+    "ref": "EXO 25:15",
+    "concept": "Do not remove the staves from the ark"
+  },
+  {
+    "num": 314,
+    "pol": "P",
+    "ref": "NUM 18:23",
+    "concept": "The Levites must work in the Temple"
+  },
+  {
+    "num": 315,
+    "pol": "N",
+    "ref": "NUM 18:3",
+    "concept": "No Levite must do the work of either another priest or another Levite"
+  },
+  {
+    "num": 316,
+    "pol": "P",
+    "ref": "LEV 21:8",
+    "concept": "Dedicate the priest for service"
+  },
+  {
+    "num": 317,
+    "pol": "P",
+    "ref": "DEU 18:6",
+    "concept": "The work of the priests' shifts must be equal during holidays"
+  },
+  {
+    "num": 318,
+    "pol": "P",
+    "ref": "EXO 28:2",
+    "concept": "The priests must wear their priestly garments during service"
+  },
+  {
+    "num": 319,
+    "pol": "N",
+    "ref": "EXO 28:32",
+    "concept": "Do not tear the priestly garments"
+  },
+  {
+    "num": 320,
+    "pol": "N",
+    "ref": "EXO 28:28",
+    "concept": "Do not loosen the breastplate from the ephod"
+  },
+  {
+    "num": 321,
+    "pol": "N",
+    "ref": "LEV 10:9",
+    "concept": "A priest must not enter the Temple intoxicated"
+  },
+  {
+    "num": 322,
+    "pol": "N",
+    "ref": "LEV 10:6",
+    "concept": "A priest must not enter the Temple with his head uncovered"
+  },
+  {
+    "num": 323,
+    "pol": "N",
+    "ref": "LEV 10:6",
+    "concept": "A priest must not enter the Temple with torn clothes"
+  },
+  {
+    "num": 324,
+    "pol": "N",
+    "ref": "LEV 16:2",
+    "concept": "A priest must not enter the sanctuary of the Temple indiscriminately"
+  },
+  {
+    "num": 325,
+    "pol": "N",
+    "ref": "LEV 10:7",
+    "concept": "A priest must not leave the Temple during service"
+  },
+  {
+    "num": 326,
+    "pol": "P",
+    "ref": "NUM 5:2",
+    "concept": "Send the impure person from the Temple"
+  },
+  {
+    "num": 327,
+    "pol": "N",
+    "ref": "NUM 5:3",
+    "concept": "An impure person must not enter the Temple"
+  },
+  {
+    "num": 328,
+    "pol": "N",
+    "ref": "DEU 23:11",
+    "concept": "An impure person must not enter the Temple Mount area"
+  },
+  {
+    "num": 329,
+    "pol": "N",
+    "ref": "LEV 22:2",
+    "concept": "Impure priests must not do service in the Temple"
+  },
+  {
+    "num": 330,
+    "pol": "N",
+    "ref": "LEV 21:6",
+    "concept": "An impure priest, following immersion, shall not serve until after sundown"
+  },
+  {
+    "num": 331,
+    "pol": "P",
+    "ref": "EXO 30:19",
+    "concept": "A priest must wash his hands and feet before service"
+  },
+  {
+    "num": 332,
+    "pol": "N",
+    "ref": "LEV 21:23",
+    "concept": "A priest with a physical blemish must not enter the sanctuary or approach the altar"
+  },
+  {
+    "num": 333,
+    "pol": "N",
+    "ref": "LEV 21:17",
+    "concept": "A priest with a physical blemish must not serve"
+  },
+  {
+    "num": 334,
+    "pol": "N",
+    "ref": "LEV 21:17",
+    "concept": "A priest with a temporary blemish must not serve"
+  },
+  {
+    "num": 335,
+    "pol": "N",
+    "ref": "NUM 18:4",
+    "concept": "One who is not a priest must not serve"
+  },
+  {
+    "num": 336,
+    "pol": "P",
+    "ref": "LEV 22:21",
+    "concept": "Offer only unblemished animals"
+  },
+  {
+    "num": 337,
+    "pol": "N",
+    "ref": "LEV 22:20",
+    "concept": "Do not dedicate a blemished animal for the altar"
+  },
+  {
+    "num": 338,
+    "pol": "N",
+    "ref": "LEV 22:22",
+    "concept": "Do not slaughter a blemished animal"
+  },
+  {
+    "num": 339,
+    "pol": "N",
+    "ref": "LEV 22:24",
+    "concept": "Do not sprinkle a blemished animal's blood"
+  },
+  {
+    "num": 340,
+    "pol": "N",
+    "ref": "LEV 22:22",
+    "concept": "Do not burn a blemished animal's fat"
+  },
+  {
+    "num": 341,
+    "pol": "N",
+    "ref": "DEU 17:1",
+    "concept": "Do not offer a temporarily blemished animal"
+  },
+  {
+    "num": 342,
+    "pol": "N",
+    "ref": "LEV 22:25",
+    "concept": "Do not sacrifice blemished animals even if offered by those who are not part of the Covenant"
+  },
+  {
+    "num": 343,
+    "pol": "N",
+    "ref": "LEV 22:21",
+    "concept": "Do not inflict wounds upon dedicated animals"
+  },
+  {
+    "num": 344,
+    "pol": "P",
+    "ref": "DEU 12:15",
+    "concept": "To redeem dedicated animals which have become disqualified"
+  },
+  {
+    "num": 345,
+    "pol": "P",
+    "ref": "LEV 22:27",
+    "concept": "Offer only animals which are at least eight days old"
+  },
+  {
+    "num": 346,
+    "pol": "N",
+    "ref": "DEU 23:18",
+    "concept": "Do not offer animals bought with the wages of a harlot or the wages of a dog"
+  },
+  {
+    "num": 347,
+    "pol": "N",
+    "ref": "LEV 2:11",
+    "concept": "Do not burn honey or yeast on the altar"
+  },
+  {
+    "num": 348,
+    "pol": "P",
+    "ref": "LEV 2:13",
+    "concept": "Salt all sacrifices"
+  },
+  {
+    "num": 349,
+    "pol": "N",
+    "ref": "LEV 2:13",
+    "concept": "Do not omit the salt from sacrifices"
+  },
+  {
+    "num": 350,
+    "pol": "P",
+    "ref": "LEV 1:3",
+    "concept": "Carry out the procedure of the burnt offering as prescribed in the Law"
+  },
+  {
+    "num": 351,
+    "pol": "N",
+    "ref": "DEU 12:17",
+    "concept": "Do not eat the meat of an offering away from the Temple"
+  },
+  {
+    "num": 352,
+    "pol": "P",
+    "ref": "LEV 6:25",
+    "concept": "Carry out the procedure of the sin offering"
+  },
+  {
+    "num": 353,
+    "pol": "N",
+    "ref": "LEV 6:23",
+    "concept": "Do not eat the meat of the inner sin offering"
+  },
+  {
+    "num": 354,
+    "pol": "N",
+    "ref": "LEV 5:8",
+    "concept": "Do not decapitate a fowl brought as a sin offering"
+  },
+  {
+    "num": 355,
+    "pol": "P",
+    "ref": "LEV 7:1",
+    "concept": "Carry out the procedure of the guilt offering"
+  },
+  {
+    "num": 356,
+    "pol": "P",
+    "ref": "EXO 29:33",
+    "concept": "The priests must eat the sacrificial meat in the Temple"
+  },
+  {
+    "num": 357,
+    "pol": "N",
+    "ref": "DEU 12:17",
+    "concept": "The priests must not eat the meat outside the Temple courtyard"
+  },
+  {
+    "num": 358,
+    "pol": "N",
+    "ref": "EXO 29:33",
+    "concept": "A non- priest must not eat certain sacrificial meat"
+  },
+  {
+    "num": 359,
+    "pol": "P",
+    "ref": "LEV 7:11",
+    "concept": "Follow the procedure of the peace offering"
+  },
+  {
+    "num": 360,
+    "pol": "N",
+    "ref": "DEU 12:15",
+    "concept": "Do not eat the meat of minor sacrifices before sprinkling the blood"
+  },
+  {
+    "num": 361,
+    "pol": "P",
+    "ref": "LEV 2:1",
+    "concept": "Bring meal offerings as prescribed in the Torah"
+  },
+  {
+    "num": 362,
+    "pol": "N",
+    "ref": "LEV 5:11",
+    "concept": "Do not put oil on the meal offerings of wrongdoers"
+  },
+  {
+    "num": 363,
+    "pol": "N",
+    "ref": "LEV 5:11",
+    "concept": "Do not put frankincense on the meal offerings of wrongdoers"
+  },
+  {
+    "num": 364,
+    "pol": "N",
+    "ref": "LEV 6:16",
+    "concept": "Do not eat the meal offering of a priest"
+  },
+  {
+    "num": 365,
+    "pol": "N",
+    "ref": "LEV 6:17",
+    "concept": "Do not bake a meal offering as leavened bread"
+  },
+  {
+    "num": 366,
+    "pol": "P",
+    "ref": "LEV 6:16",
+    "concept": "The priests must eat the remains of the meal offerings"
+  },
+  {
+    "num": 367,
+    "pol": "P",
+    "ref": "DEU 12:5",
+    "concept": "Bring all avowed and freewill offerings to the Temple on the first subsequent festival"
+  },
+  {
+    "num": 368,
+    "pol": "N",
+    "ref": "DEU 23:22",
+    "concept": "Do not withhold payment incurred by any vow"
+  },
+  {
+    "num": 369,
+    "pol": "P",
+    "ref": "DEU 12:11",
+    "concept": "Offer all sacrifices in the Temple"
+  },
+  {
+    "num": 370,
+    "pol": "P",
+    "ref": "DEU 12:26",
+    "concept": "Bring all sacrifices from outside Israel to the Temple"
+  },
+  {
+    "num": 371,
+    "pol": "N",
+    "ref": "LEV 17:3",
+    "concept": "Do not slaughter sacrifices outside the Temple"
+  },
+  {
+    "num": 372,
+    "pol": "N",
+    "ref": "DEU 12:13",
+    "concept": "Do not offer any sacrifices outside the courtyard"
+  },
+  {
+    "num": 373,
+    "pol": "P",
+    "ref": "NUM 28:3",
+    "concept": "Offer two lambs for sacrifice every day"
+  },
+  {
+    "num": 374,
+    "pol": "P",
+    "ref": "LEV 6:9",
+    "concept": "Keep the fire burning on the altar"
+  },
+  {
+    "num": 375,
+    "pol": "N",
+    "ref": "LEV 6:9",
+    "concept": "Do not extinguish the fire on the altar"
+  },
+  {
+    "num": 376,
+    "pol": "P",
+    "ref": "LEV 6:10",
+    "concept": "Remove the ashes from the altar every day"
+  },
+  {
+    "num": 377,
+    "pol": "P",
+    "ref": "EXO 30:7",
+    "concept": "Burn incense every day"
+  },
+  {
+    "num": 378,
+    "pol": "P",
+    "ref": "EXO 27:21",
+    "concept": "Light the Menorah every day"
+  },
+  {
+    "num": 379,
+    "pol": "P",
+    "ref": "LEV 6:20",
+    "concept": "The high priest must bring a meal offering every day"
+  },
+  {
+    "num": 380,
+    "pol": "P",
+    "ref": "NUM 28:9",
+    "concept": "Bring two additional lambs as burnt offerings on the Sabbath"
+  },
+  {
+    "num": 381,
+    "pol": "P",
+    "ref": "EXO 25:30",
+    "concept": "Make the show bread and place it before G-d"
+  },
+  {
+    "num": 382,
+    "pol": "P",
+    "ref": "NUM 28:11",
+    "concept": "Bring additional offerings on the first day of the month"
+  },
+  {
+    "num": 383,
+    "pol": "P",
+    "ref": "NUM 28:19",
+    "concept": "Bring additional offerings on Passover"
+  },
+  {
+    "num": 384,
+    "pol": "P",
+    "ref": "LEV 23:10",
+    "concept": "Offer the wave offering from the meal of the new wheat"
+  },
+  {
+    "num": 385,
+    "pol": "P",
+    "ref": "LEV 23:15",
+    "concept": "Each man must count seven weeks from the day the new wheat offering was brought after Passover"
+  },
+  {
+    "num": 386,
+    "pol": "P",
+    "ref": "NUM 28:26",
+    "concept": "Bring additional offerings on the Feast of Weeks"
+  },
+  {
+    "num": 387,
+    "pol": "P",
+    "ref": "LEV 23:17",
+    "concept": "Bring two loaves to accompany the additional the Feast of Weeks offerings"
+  },
+  {
+    "num": 388,
+    "pol": "P",
+    "ref": "NUM 29:1",
+    "concept": "Bring additional offerings on the Feast of Trumpets"
+  },
+  {
+    "num": 389,
+    "pol": "P",
+    "ref": "NUM 29:8",
+    "concept": "Bring additional offerings on the Day of Atonement"
+  },
+  {
+    "num": 390,
+    "pol": "P",
+    "ref": "NUM 29:12",
+    "concept": "Bring additional offerings on the Feast of Tabernacles"
+  },
+  {
+    "num": 391,
+    "pol": "P",
+    "ref": "NUM 29:35",
+    "concept": "Bring additional offerings on the eighth day of the Feast of Tabernacles"
+  },
+  {
+    "num": 392,
+    "pol": "N",
+    "ref": "DEU 14:3",
+    "concept": "Do not eat sacrifices which have become unfit or blemished"
+  },
+  {
+    "num": 393,
+    "pol": "N",
+    "ref": "LEV 7:18",
+    "concept": "Do not eat from sacrifices offered with improper intentions"
+  },
+  {
+    "num": 394,
+    "pol": "N",
+    "ref": "LEV 22:30",
+    "concept": "Do not leave sacrifices past the time allowed for eating them"
+  },
+  {
+    "num": 395,
+    "pol": "N",
+    "ref": "LEV 19:8",
+    "concept": "Do not eat from that which was left over from an offering"
+  },
+  {
+    "num": 396,
+    "pol": "N",
+    "ref": "LEV 7:19",
+    "concept": "Do not eat from sacrifices which became impure"
+  },
+  {
+    "num": 397,
+    "pol": "N",
+    "ref": "LEV 7:20",
+    "concept": "An impure person must not eat from sacrifices"
+  },
+  {
+    "num": 398,
+    "pol": "P",
+    "ref": "LEV 7:17",
+    "concept": "Burn the leftover sacrifices"
+  },
+  {
+    "num": 399,
+    "pol": "P",
+    "ref": "LEV 7:19",
+    "concept": "Burn all impure sacrifices"
+  },
+  {
+    "num": 400,
+    "pol": "P",
+    "ref": "LEV 16:3",
+    "concept": "Follow the procedures of the Day of Atonement in the sequence prescribed"
+  },
+  {
+    "num": 401,
+    "pol": "P",
+    "ref": "LEV 5:16",
+    "concept": "One who profaned a sacred object must repay what he profaned plus a fifth and bring a sacrifice"
+  },
+  {
+    "num": 402,
+    "pol": "N",
+    "ref": "DEU 15:19",
+    "concept": "Do not work consecrated animals"
+  },
+  {
+    "num": 403,
+    "pol": "N",
+    "ref": "DEU 15:19",
+    "concept": "Do not shear the fleece of consecrated animals"
+  },
+  {
+    "num": 404,
+    "pol": "P",
+    "ref": "EXO 12:6",
+    "concept": "Slaughter the paschal sacrifice at the specified time"
+  },
+  {
+    "num": 405,
+    "pol": "N",
+    "ref": "EXO 23:18",
+    "concept": "Do not slaughter the paschal sacrifice while in possession of leaven"
+  },
+  {
+    "num": 406,
+    "pol": "N",
+    "ref": "EXO 23:18",
+    "concept": "Do not leave the fat of the paschal sacrifice overnight"
+  },
+  {
+    "num": 407,
+    "pol": "P",
+    "ref": "NUM 7:11",
+    "concept": "Slaughter the second Passover lamb"
+  },
+  {
+    "num": 408,
+    "pol": "P",
+    "ref": "EXO 12:8",
+    "concept": "Eat the Passover lamb with unleavened bread and bitter herbs on the night of the 14th of Nisan"
+  },
+  {
+    "num": 409,
+    "pol": "P",
+    "ref": "NUM 9:11",
+    "concept": "Eat the second Passover lamb on the night of the 15th day of the month after Passover"
+  },
+  {
+    "num": 410,
+    "pol": "N",
+    "ref": "EXO 12:9",
+    "concept": "Do not eat the meat of the Passover lamb raw or boiled"
+  },
+  {
+    "num": 411,
+    "pol": "N",
+    "ref": "EXO 12:46",
+    "concept": "Do not take the meat of the Passover lamb from the confines of the group"
+  },
+  {
+    "num": 412,
+    "pol": "N",
+    "ref": "EXO 12:43",
+    "concept": "An apostate must not eat from the Passover lamb"
+  },
+  {
+    "num": 413,
+    "pol": "N",
+    "ref": "EXO 12:45",
+    "concept": "A permanent or temporary hired worker must not eat from the Passover lamb"
+  },
+  {
+    "num": 414,
+    "pol": "N",
+    "ref": "EXO 12:48",
+    "concept": "An uncircumcised male must not eat from the Passover lamb"
+  },
+  {
+    "num": 415,
+    "pol": "N",
+    "ref": "EXO 12:46",
+    "concept": "Do not break any bones from the Passover lamb"
+  },
+  {
+    "num": 416,
+    "pol": "N",
+    "ref": "NUM 9:12",
+    "concept": "Do not break any bones from the second Passover lamb offering"
+  },
+  {
+    "num": 417,
+    "pol": "N",
+    "ref": "EXO 12:10",
+    "concept": "Do not leave any meat of the Passover lamb over until morning"
+  },
+  {
+    "num": 418,
+    "pol": "N",
+    "ref": "NUM 9:12",
+    "concept": "Do not leave the meat of the second Passover lamb over until morning"
+  },
+  {
+    "num": 419,
+    "pol": "N",
+    "ref": "DEU 16:4",
+    "concept": "Do not leave the meat of the Passover lamb of the 14th until the 16th"
+  },
+  {
+    "num": 420,
+    "pol": "P",
+    "ref": "DEU 16:16",
+    "concept": "Go to the Temple on Passover, the Feast of Weeks, and the Feast of Tabernacles"
+  },
+  {
+    "num": 421,
+    "pol": "P",
+    "ref": "EXO 23:14",
+    "concept": "Celebrate on Passover, the Feast of Weeks, and the Feast of Tabernacles and bring a peace offering"
+  },
+  {
+    "num": 422,
+    "pol": "P",
+    "ref": "DEU 16:14",
+    "concept": "Rejoice on Passover, the Feast of Weeks, and the Feast of Tabernacles and bring a peace offering"
+  },
+  {
+    "num": 423,
+    "pol": "N",
+    "ref": "DEU 16:16",
+    "concept": "Do not appear at the Temple during Passover, the Feast of Weeks, and the Feast of Tabernacles without offerings"
+  },
+  {
+    "num": 424,
+    "pol": "N",
+    "ref": "DEU 12:19",
+    "concept": "Do not refrain from rejoicing with, and giving gifts to, the Levites on the Pilgrimage Festivals"
+  },
+  {
+    "num": 425,
+    "pol": "P",
+    "ref": "DEU 31:10",
+    "concept": "Assemble all the people on the Feast of Tabernacles following the seventh year"
+  },
+  {
+    "num": 426,
+    "pol": "P",
+    "ref": "EXO 13:12",
+    "concept": "Set aside the firstborn animals"
+  },
+  {
+    "num": 427,
+    "pol": "N",
+    "ref": "DEU 12:17",
+    "concept": "The priests must not eat unblemished firstborn animals outside Jerusalem"
+  },
+  {
+    "num": 428,
+    "pol": "N",
+    "ref": "NUM 18:17",
+    "concept": "Do not redeem the firstborn animals"
+  },
+  {
+    "num": 429,
+    "pol": "P",
+    "ref": "LEV 27:32",
+    "concept": "Separate the tithe of animals"
+  },
+  {
+    "num": 430,
+    "pol": "N",
+    "ref": "LEV 27:33",
+    "concept": "Do not redeem the tithe"
+  },
+  {
+    "num": 431,
+    "pol": "P",
+    "ref": "LEV 4:27",
+    "concept": "Every person must bring a sin offering for his transgression"
+  },
+  {
+    "num": 432,
+    "pol": "P",
+    "ref": "LEV 5:17",
+    "concept": "Bring an asham offering when uncertain of guilt"
+  },
+  {
+    "num": 433,
+    "pol": "P",
+    "ref": "LEV 6:6",
+    "concept": "Bring an offering when guilt is determined for certain sins"
+  },
+  {
+    "num": 434,
+    "pol": "P",
+    "ref": "LEV 5:7",
+    "concept": "Bring an offering in accordance with one's financial ability"
+  },
+  {
+    "num": 435,
+    "pol": "P",
+    "ref": "LEV 4:13",
+    "concept": "The High Court must bring an offering when it rules in error"
+  },
+  {
+    "num": 436,
+    "pol": "P",
+    "ref": "LEV 15:28",
+    "concept": "A woman who had a running vaginal issue must bring an offering in the Temple after she immerses in water"
+  },
+  {
+    "num": 437,
+    "pol": "P",
+    "ref": "LEV 12:6",
+    "concept": "A woman who gave birth must bring an offering after she immerses in water"
+  },
+  {
+    "num": 438,
+    "pol": "P",
+    "ref": "LEV 15:13",
+    "concept": "A man who had a running unnatural urinary issue must bring an offering in the Temple after he immerses in water"
+  },
+  {
+    "num": 439,
+    "pol": "P",
+    "ref": "LEV 14:10",
+    "concept": "An leprous person must bring an offering after immersing in water"
+  },
+  {
+    "num": 440,
+    "pol": "N",
+    "ref": "LEV 27:10",
+    "concept": "Do not substitute another beast for one set apart for sacrifice"
+  },
+  {
+    "num": 441,
+    "pol": "P",
+    "ref": "LEV 27:10",
+    "concept": "Both an animal offered as a substitution as well as an animal set apart for sacrifice retain their consecration"
+  },
+  {
+    "num": 442,
+    "pol": "N",
+    "ref": "LEV 27:26",
+    "concept": "Do not change consecrated animals from one type of offering to another"
+  },
+  {
+    "num": 443,
+    "pol": "P",
+    "ref": "NUM 19:14",
+    "concept": "Carry out the laws of impurity of the dead"
+  },
+  {
+    "num": 444,
+    "pol": "P",
+    "ref": "NUM 19:2",
+    "concept": "Carry out the procedure of the Red Heifer"
+  },
+  {
+    "num": 445,
+    "pol": "P",
+    "ref": "NUM 19:21",
+    "concept": "Carry out the laws of the sprinkling water"
+  },
+  {
+    "num": 446,
+    "pol": "P",
+    "ref": "LEV 13:12",
+    "concept": "Follow the commandments of human leprosy as prescribed in the Law"
+  },
+  {
+    "num": 447,
+    "pol": "N",
+    "ref": "DEU 24:8",
+    "concept": "The unclean person must not remove his signs of impurity"
+  },
+  {
+    "num": 448,
+    "pol": "N",
+    "ref": "LEV 13:33",
+    "concept": "The leprous person must not shave signs of impurity in his hair"
+  },
+  {
+    "num": 449,
+    "pol": "P",
+    "ref": "LEV 13:45",
+    "concept": "The leprous person must publicize his condition by tearing his garments, allowing his hair to grow and covering his lips"
+  },
+  {
+    "num": 450,
+    "pol": "P",
+    "ref": "LEV 14:2",
+    "concept": "Carry out the prescribed rules for purifying the leprous person"
+  },
+  {
+    "num": 451,
+    "pol": "P",
+    "ref": "LEV 14:9",
+    "concept": "The leprous person must shave off all his hair prior to purification"
+  },
+  {
+    "num": 452,
+    "pol": "P",
+    "ref": "LEV 13:47",
+    "concept": "Carry out the laws of leprous clothing"
+  },
+  {
+    "num": 453,
+    "pol": "P",
+    "ref": "LEV 14:34",
+    "concept": "Carry out the laws of leprous houses"
+  },
+  {
+    "num": 454,
+    "pol": "P",
+    "ref": "LEV 15:19",
+    "concept": "Observe the laws of menstrual impurity"
+  },
+  {
+    "num": 455,
+    "pol": "P",
+    "ref": "LEV 12:2",
+    "concept": "Observe the laws of impurity caused by childbirth"
+  },
+  {
+    "num": 456,
+    "pol": "P",
+    "ref": "LEV 15:25",
+    "concept": "Observe the laws of impurity caused by a woman's running issue"
+  },
+  {
+    "num": 457,
+    "pol": "P",
+    "ref": "LEV 15:3",
+    "concept": "Observe the laws of impurity caused by a man's running issue"
+  },
+  {
+    "num": 458,
+    "pol": "P",
+    "ref": "LEV 11:39",
+    "concept": "Observe the laws of impurity caused by a dead beast"
+  },
+  {
+    "num": 459,
+    "pol": "P",
+    "ref": "LEV 11:29",
+    "concept": "Observe the laws of impurity caused by the eight listed creatures"
+  },
+  {
+    "num": 460,
+    "pol": "P",
+    "ref": "LEV 15:16",
+    "concept": "Observe the laws of impurity of a seminal emission"
+  },
+  {
+    "num": 461,
+    "pol": "P",
+    "ref": "LEV 11:34",
+    "concept": "Observe the laws of impurity concerning liquid and solid foods"
+  },
+  {
+    "num": 462,
+    "pol": "P",
+    "ref": "LEV 15:16",
+    "concept": "Every impure person must immerse himself in water to become pure"
+  },
+  {
+    "num": 463,
+    "pol": "P",
+    "ref": "EXO 21:28",
+    "concept": "The court must judge the damages incurred by a goring ox"
+  },
+  {
+    "num": 464,
+    "pol": "P",
+    "ref": "EXO 22:5",
+    "concept": "The court must judge the damages incurred by an animal eating"
+  },
+  {
+    "num": 465,
+    "pol": "P",
+    "ref": "EXO 21:33",
+    "concept": "The court must judge the damages incurred by a pit"
+  },
+  {
+    "num": 466,
+    "pol": "P",
+    "ref": "EXO 22:6",
+    "concept": "The court must judge the damages incurred by fire"
+  },
+  {
+    "num": 467,
+    "pol": "N",
+    "ref": "LEV 19:11",
+    "concept": "Do not steal money by lying"
+  },
+  {
+    "num": 468,
+    "pol": "P",
+    "ref": "EXO 22:1",
+    "concept": "The court must implement punitive measures against a thief"
+  },
+  {
+    "num": 469,
+    "pol": "P",
+    "ref": "LEV 19:36",
+    "concept": "Each individual must ensure that his scales and weights are accurate"
+  },
+  {
+    "num": 470,
+    "pol": "N",
+    "ref": "LEV 19:35",
+    "concept": "Do not commit injustice with scales and weights"
+  },
+  {
+    "num": 471,
+    "pol": "N",
+    "ref": "DEU 25:13",
+    "concept": "Do not possess inaccurate scales and weights even if they are not for use"
+  },
+  {
+    "num": 472,
+    "pol": "N",
+    "ref": "DEU 19:14",
+    "concept": "Do not move a boundary marker to steal someone's property"
+  },
+  {
+    "num": 473,
+    "pol": "N",
+    "ref": "EXO 20:15",
+    "concept": "Do not kidnap"
+  },
+  {
+    "num": 474,
+    "pol": "N",
+    "ref": "LEV 19:13",
+    "concept": "Do not rob"
+  },
+  {
+    "num": 475,
+    "pol": "N",
+    "ref": "LEV 19:13",
+    "concept": "Do not withhold wages or fail to repay a debt"
+  },
+  {
+    "num": 476,
+    "pol": "N",
+    "ref": "EXO 20:17",
+    "concept": "Do not covet and scheme to acquire another's possession"
+  },
+  {
+    "num": 477,
+    "pol": "N",
+    "ref": "DEU 5:18",
+    "concept": "Do not desire another's possession"
+  },
+  {
+    "num": 478,
+    "pol": "P",
+    "ref": "LEV 6:5",
+    "concept": "Return a stolen object or its value"
+  },
+  {
+    "num": 479,
+    "pol": "N",
+    "ref": "DEU 22:3",
+    "concept": "Do not ignore a lost object"
+  },
+  {
+    "num": 480,
+    "pol": "P",
+    "ref": "DEU 22:1",
+    "concept": "Return the lost object"
+  },
+  {
+    "num": 481,
+    "pol": "P",
+    "ref": "EXO 21:18",
+    "concept": "The court must implement laws against the one who assaults another or damages another's property"
+  },
+  {
+    "num": 482,
+    "pol": "N",
+    "ref": "EXO 20:13",
+    "concept": "Do not murder"
+  },
+  {
+    "num": 483,
+    "pol": "N",
+    "ref": "NUM 35:31",
+    "concept": "Do not accept monetary restitution to atone for a murderer"
+  },
+  {
+    "num": 484,
+    "pol": "P",
+    "ref": "NUM 35:25",
+    "concept": "The court must send the accidental murderer to a city of refuge"
+  },
+  {
+    "num": 485,
+    "pol": "N",
+    "ref": "NUM 35:32",
+    "concept": "Do not accept monetary restitution instead of being sent to a city of refuge"
+  },
+  {
+    "num": 486,
+    "pol": "N",
+    "ref": "NUM 35:12",
+    "concept": "Do not kill a murderer before he stands trial"
+  },
+  {
+    "num": 487,
+    "pol": "P",
+    "ref": "DEU 25:12",
+    "concept": "Save someone from being killed by a blood avenger even by taking the life of the pursuer"
+  },
+  {
+    "num": 488,
+    "pol": "N",
+    "ref": "NUM 35:12",
+    "concept": "Do not pity a person who pursues an individual accused of murder"
+  },
+  {
+    "num": 489,
+    "pol": "N",
+    "ref": "LEV 19:16",
+    "concept": "Do not stand idly by if someone's life is in danger"
+  },
+  {
+    "num": 490,
+    "pol": "P",
+    "ref": "DEU 19:3",
+    "concept": "Designate cities of refuge and prepare routes of access"
+  },
+  {
+    "num": 491,
+    "pol": "P",
+    "ref": "DEU 21:4",
+    "concept": "Break the neck of a calf by the river valley following an unsolved murder"
+  },
+  {
+    "num": 492,
+    "pol": "N",
+    "ref": "DEU 21:4",
+    "concept": "Do not work nor plant the river valley where an unsolved murder occurred"
+  },
+  {
+    "num": 493,
+    "pol": "N",
+    "ref": "DEU 22:8",
+    "concept": "Do not allow pitfalls and obstacles to remain on your property"
+  },
+  {
+    "num": 494,
+    "pol": "P",
+    "ref": "DEU 22:8",
+    "concept": "Make a guard rail around flat roofs"
+  },
+  {
+    "num": 495,
+    "pol": "N",
+    "ref": "LEV 19:14",
+    "concept": "Do not put a stumbling block before a blind man"
+  },
+  {
+    "num": 496,
+    "pol": "P",
+    "ref": "EXO 23:5",
+    "concept": "Help another remove the load from a beast which can no longer carry it"
+  },
+  {
+    "num": 497,
+    "pol": "P",
+    "ref": "DEU 22:4",
+    "concept": "Help others load their beast"
+  },
+  {
+    "num": 498,
+    "pol": "N",
+    "ref": "DEU 22:4",
+    "concept": "Do not leave others distraught with their burdens (but to help either load or unload)"
+  },
+  {
+    "num": 499,
+    "pol": "P",
+    "ref": "LEV 25:14",
+    "concept": "Buy and sell according to G-d's Law"
+  },
+  {
+    "num": 500,
+    "pol": "N",
+    "ref": "LEV 25:14",
+    "concept": "Do not overcharge or underpay for an article"
+  },
+  {
+    "num": 501,
+    "pol": "N",
+    "ref": "LEV 25:17",
+    "concept": "Do not insult or harm anybody with words"
+  },
+  {
+    "num": 502,
+    "pol": "N",
+    "ref": "EXO 22:21",
+    "concept": "Do not cheat a foreigner monetarily"
+  },
+  {
+    "num": 503,
+    "pol": "N",
+    "ref": "EXO 22:21",
+    "concept": "Do not insult or harm a foreigner with words"
+  },
+  {
+    "num": 504,
+    "pol": "P",
+    "ref": "EXO 21:2",
+    "concept": "Purchase a Hebrew slave in accordance with the prescribed laws"
+  },
+  {
+    "num": 505,
+    "pol": "N",
+    "ref": "LEV 25:42",
+    "concept": "Do not sell a Hebrew as a non-Hebrew is sold"
+  },
+  {
+    "num": 506,
+    "pol": "N",
+    "ref": "LEV 25:43",
+    "concept": "Do not work a Hebrew slave oppressively"
+  },
+  {
+    "num": 507,
+    "pol": "N",
+    "ref": "LEV 25:53",
+    "concept": "Do not allow a non-Israelite to work a Hebrew slave oppressively"
+  },
+  {
+    "num": 508,
+    "pol": "N",
+    "ref": "LEV 25:39",
+    "concept": "Do not have a Hebrew slave do menial slave labor"
+  },
+  {
+    "num": 509,
+    "pol": "P",
+    "ref": "DEU 15:14",
+    "concept": "Give a Hebrew slave gifts when he goes free"
+  },
+  {
+    "num": 510,
+    "pol": "N",
+    "ref": "DEU 15:13",
+    "concept": "Do not send a Hebrew slave away empty-handed"
+  },
+  {
+    "num": 511,
+    "pol": "P",
+    "ref": "EXO 21:8",
+    "concept": "Redeem Israelite maidservants"
+  },
+  {
+    "num": 512,
+    "pol": "P",
+    "ref": "EXO 21:8",
+    "concept": "Betroth the Israelite maidservant"
+  },
+  {
+    "num": 513,
+    "pol": "N",
+    "ref": "EXO 21:8",
+    "concept": "The master must not sell his maidservant"
+  },
+  {
+    "num": 514,
+    "pol": "P",
+    "ref": "LEV 25:46",
+    "concept": "Canaanite slaves must work forever unless injured in one of their limbs"
+  },
+  {
+    "num": 515,
+    "pol": "N",
+    "ref": "DEU 23:16",
+    "concept": "Do not extradite a slave who fled to the Land of Israel"
+  },
+  {
+    "num": 516,
+    "pol": "N",
+    "ref": "DEU 23:16",
+    "concept": "Do not wrong a slave who has come to the Land of Israel for refuge"
+  },
+  {
+    "num": 517,
+    "pol": "P",
+    "ref": "EXO 22:10",
+    "concept": "The courts must carry out the laws of a hired worker and hired guard"
+  },
+  {
+    "num": 518,
+    "pol": "P",
+    "ref": "DEU 24:15",
+    "concept": "Pay wages on the day they were earned"
+  },
+  {
+    "num": 519,
+    "pol": "N",
+    "ref": "LEV 19:13",
+    "concept": "Do not delay payment of wages past the agreed time"
+  },
+  {
+    "num": 520,
+    "pol": "P",
+    "ref": "DEU 23:25",
+    "concept": "The hired worker may eat from the unharvested crops where he works"
+  },
+  {
+    "num": 521,
+    "pol": "N",
+    "ref": "DEU 23:25",
+    "concept": "The worker must not eat while on hired time"
+  },
+  {
+    "num": 522,
+    "pol": "N",
+    "ref": "DEU 23:25",
+    "concept": "The worker must not take more than he can eat"
+  },
+  {
+    "num": 523,
+    "pol": "N",
+    "ref": "DEU 25:4",
+    "concept": "Do not muzzle an ox while plowing"
+  },
+  {
+    "num": 524,
+    "pol": "P",
+    "ref": "EXO 22:14",
+    "concept": "The courts must carry out the laws of a borrower"
+  },
+  {
+    "num": 525,
+    "pol": "P",
+    "ref": "EXO 22:7",
+    "concept": "The courts must carry out the laws of an unpaid guard"
+  },
+  {
+    "num": 526,
+    "pol": "P",
+    "ref": "EXO 22:25",
+    "concept": "Lend to the poor and destitute"
+  },
+  {
+    "num": 527,
+    "pol": "N",
+    "ref": "EXO 22:25",
+    "concept": "Do not press the poor and destitute for payment if you know they don't have it"
+  },
+  {
+    "num": 528,
+    "pol": "P",
+    "ref": "DEU 15:3",
+    "concept": "Press the idolater for payment of a loan"
+  },
+  {
+    "num": 529,
+    "pol": "N",
+    "ref": "DEU 24:10",
+    "concept": "The creditor must not forcibly take collateral"
+  },
+  {
+    "num": 530,
+    "pol": "P",
+    "ref": "DEU 24:13",
+    "concept": "Return the collateral to the debtor when needed"
+  },
+  {
+    "num": 531,
+    "pol": "N",
+    "ref": "DEU 24:12",
+    "concept": "Do not delay return of collateral when needed"
+  },
+  {
+    "num": 532,
+    "pol": "N",
+    "ref": "DEU 24:17",
+    "concept": "Do not demand collateral from a widow"
+  },
+  {
+    "num": 533,
+    "pol": "N",
+    "ref": "DEU 24:6",
+    "concept": "Do not demand as collateral utensils needed for preparing food"
+  },
+  {
+    "num": 534,
+    "pol": "N",
+    "ref": "LEV 25:37",
+    "concept": "Do not lend with interest"
+  },
+  {
+    "num": 535,
+    "pol": "N",
+    "ref": "DEU 23:19",
+    "concept": "Do not borrow with interest"
+  },
+  {
+    "num": 536,
+    "pol": "N",
+    "ref": "EXO 22:25",
+    "concept": "Do not intermediate in an interest loan, guarantee, witness, or write the promissory note"
+  },
+  {
+    "num": 537,
+    "pol": "P",
+    "ref": "DEU 23:20",
+    "concept": "Lend to and borrow from idolaters with interest"
+  },
+  {
+    "num": 538,
+    "pol": "P",
+    "ref": "EXO 22:9",
+    "concept": "The courts must carry out the laws of the plaintiff, admitter, or denier"
+  },
+  {
+    "num": 539,
+    "pol": "P",
+    "ref": "NUM 27:8",
+    "concept": "Carry out the laws of the order of inheritance"
+  },
+  {
+    "num": 540,
+    "pol": "P",
+    "ref": "DEU 16:18",
+    "concept": "Appoint judges"
+  },
+  {
+    "num": 541,
+    "pol": "N",
+    "ref": "DEU 1:17",
+    "concept": "Do not appoint judges who are not familiar with the Law"
+  },
+  {
+    "num": 542,
+    "pol": "P",
+    "ref": "EXO 23:2",
+    "concept": "Decide by majority in case of disagreement"
+  },
+  {
+    "num": 543,
+    "pol": "N",
+    "ref": "EXO 23:2",
+    "concept": "The court must not execute through a majority of one; at least a majority of two is required"
+  },
+  {
+    "num": 544,
+    "pol": "N",
+    "ref": "EXO 23:2",
+    "concept": "A judge who presented an acquittal plea must not present an argument for conviction in capital cases"
+  },
+  {
+    "num": 545,
+    "pol": "P",
+    "ref": "DEU 22:24",
+    "concept": "The courts must carry out the death penalty of stoning"
+  },
+  {
+    "num": 546,
+    "pol": "P",
+    "ref": "LEV 20:14",
+    "concept": "The courts must carry out the death penalty of burning"
+  },
+  {
+    "num": 547,
+    "pol": "P",
+    "ref": "EXO 21:20",
+    "concept": "The courts must carry out the death penalty of decapitation with the sword"
+  },
+  {
+    "num": 548,
+    "pol": "P",
+    "ref": "LEV 20:10",
+    "concept": "The courts must carry out the death penalty of strangulation"
+  },
+  {
+    "num": 549,
+    "pol": "P",
+    "ref": "DEU 21:22",
+    "concept": "The courts must hang those stoned for blasphemy or idolatry"
+  },
+  {
+    "num": 550,
+    "pol": "P",
+    "ref": "DEU 21:23",
+    "concept": "Bury the executed on the day they are killed"
+  },
+  {
+    "num": 551,
+    "pol": "N",
+    "ref": "DEU 21:23",
+    "concept": "Do not delay burial overnight"
+  },
+  {
+    "num": 552,
+    "pol": "N",
+    "ref": "EXO 22:18",
+    "concept": "The court must not let the sorcerer live"
+  },
+  {
+    "num": 553,
+    "pol": "P",
+    "ref": "DEU 25:3",
+    "concept": "The court must give lashes to the wrongdoer"
+  },
+  {
+    "num": 554,
+    "pol": "N",
+    "ref": "DEU 25:3",
+    "concept": "The court must not exceed the prescribed number of lashes"
+  },
+  {
+    "num": 555,
+    "pol": "N",
+    "ref": "EXO 23:7",
+    "concept": "The court must not kill anybody on circumstantial evidence"
+  },
+  {
+    "num": 556,
+    "pol": "N",
+    "ref": "DEU 22:26",
+    "concept": "The court must not punish anybody who was forced to do a crime"
+  },
+  {
+    "num": 557,
+    "pol": "N",
+    "ref": "DEU 19:13",
+    "concept": "A judge must not pity the murderer or assaulter at the trial"
+  },
+  {
+    "num": 558,
+    "pol": "N",
+    "ref": "LEV 19:15",
+    "concept": "A judge must not have mercy on the poor man at the trial"
+  },
+  {
+    "num": 559,
+    "pol": "N",
+    "ref": "LEV 19:15",
+    "concept": "A judge must not respect the great man at the trial"
+  },
+  {
+    "num": 560,
+    "pol": "N",
+    "ref": "EXO 23:6",
+    "concept": "A judge must not decide unjustly the case of the habitual transgressor"
+  },
+  {
+    "num": 561,
+    "pol": "N",
+    "ref": "LEV 19:15",
+    "concept": "A judge must not pervert justice"
+  },
+  {
+    "num": 562,
+    "pol": "N",
+    "ref": "DEU 24:17",
+    "concept": "A judge must not pervert a case involving a foreigner or orphan"
+  },
+  {
+    "num": 563,
+    "pol": "P",
+    "ref": "LEV 19:15",
+    "concept": "Judge righteously"
+  },
+  {
+    "num": 564,
+    "pol": "N",
+    "ref": "DEU 1:17",
+    "concept": "The judge must not fear a violent man in judgment"
+  },
+  {
+    "num": 565,
+    "pol": "N",
+    "ref": "EXO 23:8",
+    "concept": "Judges must not accept bribes"
+  },
+  {
+    "num": 566,
+    "pol": "N",
+    "ref": "EXO 23:1",
+    "concept": "Judges must not accept testimony unless both parties are present"
+  },
+  {
+    "num": 567,
+    "pol": "N",
+    "ref": "EXO 22:28",
+    "concept": "Do not curse judges"
+  },
+  {
+    "num": 568,
+    "pol": "N",
+    "ref": "EXO 22:28",
+    "concept": "Do not curse the head of state or leader of the Sanhedrin"
+  },
+  {
+    "num": 569,
+    "pol": "N",
+    "ref": "LEV 19:14",
+    "concept": "Do not curse any upstanding Israelite"
+  },
+  {
+    "num": 570,
+    "pol": "P",
+    "ref": "LEV 5:1",
+    "concept": "Anybody who knows evidence must testify in court"
+  },
+  {
+    "num": 571,
+    "pol": "P",
+    "ref": "DEU 13:15",
+    "concept": "Carefully interrogate the witness"
+  },
+  {
+    "num": 572,
+    "pol": "N",
+    "ref": "NUM 35:30",
+    "concept": "A witness must not serve as a judge in capital crimes"
+  },
+  {
+    "num": 573,
+    "pol": "N",
+    "ref": "DEU 19:15",
+    "concept": "Do not accept testimony from a lone witness"
+  },
+  {
+    "num": 574,
+    "pol": "N",
+    "ref": "EXO 23:1",
+    "concept": "Habitual transgressors must not testify"
+  },
+  {
+    "num": 575,
+    "pol": "N",
+    "ref": "DEU 24:16",
+    "concept": "Relatives of the litigants must not testify"
+  },
+  {
+    "num": 576,
+    "pol": "N",
+    "ref": "EXO 20:16",
+    "concept": "Do not testify falsely"
+  },
+  {
+    "num": 577,
+    "pol": "P",
+    "ref": "DEU 19:19",
+    "concept": "Punish the false witnesses as they tried to punish the defendant"
+  },
+  {
+    "num": 578,
+    "pol": "P",
+    "ref": "DEU 17:11",
+    "concept": "Act according to the ruling of the Sanhedrin"
+  },
+  {
+    "num": 579,
+    "pol": "N",
+    "ref": "DEU 17:11",
+    "concept": "Do not deviate from the word of the Sanhedrin"
+  },
+  {
+    "num": 580,
+    "pol": "N",
+    "ref": "DEU 12:32",
+    "concept": "Do not add any commandments to the Law"
+  },
+  {
+    "num": 581,
+    "pol": "N",
+    "ref": "DEU 12:32",
+    "concept": "Do not diminish any commandments from the Law"
+  },
+  {
+    "num": 582,
+    "pol": "N",
+    "ref": "EXO 21:17",
+    "concept": "Do not curse your father and mother"
+  },
+  {
+    "num": 583,
+    "pol": "N",
+    "ref": "EXO 21:15",
+    "concept": "Do not strike your father and mother"
+  },
+  {
+    "num": 584,
+    "pol": "P",
+    "ref": "EXO 20:12",
+    "concept": "Respect your father or mother"
+  },
+  {
+    "num": 585,
+    "pol": "P",
+    "ref": "LEV 19:3",
+    "concept": "Fear your father or mother"
+  },
+  {
+    "num": 586,
+    "pol": "N",
+    "ref": "DEU 21:18",
+    "concept": "Do not be a rebellious son"
+  },
+  {
+    "num": 587,
+    "pol": "P",
+    "ref": "LEV 10:19",
+    "concept": "Mourn for relatives"
+  },
+  {
+    "num": 588,
+    "pol": "N",
+    "ref": "LEV 21:11",
+    "concept": "The high priest must not defile himself for any relative"
+  },
+  {
+    "num": 589,
+    "pol": "N",
+    "ref": "LEV 21:11",
+    "concept": "The high priest must not enter under the same roof as a corpse"
+  },
+  {
+    "num": 590,
+    "pol": "N",
+    "ref": "LEV 21:1",
+    "concept": "A priest must not defile himself (by going to funerals or cemeteries) for anyone except relatives"
+  },
+  {
+    "num": 591,
+    "pol": "P",
+    "ref": "DEU 17:15",
+    "concept": "Appoint a king from Israel"
+  },
+  {
+    "num": 592,
+    "pol": "N",
+    "ref": "DEU 17:15",
+    "concept": "Do not appoint a foreigner as king"
+  },
+  {
+    "num": 593,
+    "pol": "N",
+    "ref": "DEU 17:17",
+    "concept": "The king must not have too many wives"
+  },
+  {
+    "num": 594,
+    "pol": "N",
+    "ref": "DEU 17:16",
+    "concept": "The king must not have too many horses"
+  },
+  {
+    "num": 595,
+    "pol": "N",
+    "ref": "DEU 17:17",
+    "concept": "The king must not have too much silver and gold"
+  },
+  {
+    "num": 596,
+    "pol": "P",
+    "ref": "DEU 20:17",
+    "concept": "Destroy the seven Canaanite nations"
+  },
+  {
+    "num": 597,
+    "pol": "N",
+    "ref": "DEU 20:16",
+    "concept": "Do not let any of the seven Canaanite nations remain alive"
+  },
+  {
+    "num": 598,
+    "pol": "P",
+    "ref": "DEU 25:19",
+    "concept": "Wipe out the descendants of Amalek"
+  },
+  {
+    "num": 599,
+    "pol": "P",
+    "ref": "DEU 25:17",
+    "concept": "Remember what Amalek did to the Israelites"
+  },
+  {
+    "num": 600,
+    "pol": "N",
+    "ref": "DEU 25:19",
+    "concept": "Do not forget Amalek's atrocities and ambush on our journey from Egypt in the desert"
+  },
+  {
+    "num": 601,
+    "pol": "N",
+    "ref": "DEU 17:16",
+    "concept": "Do not dwell permanently in Egypt"
+  },
+  {
+    "num": 602,
+    "pol": "P",
+    "ref": "DEU 20:10",
+    "concept": "Offer peace terms to the inhabitants of a city while holding siege, and treat them according to the Law if they accept the terms"
+  },
+  {
+    "num": 603,
+    "pol": "N",
+    "ref": "DEU 23:7",
+    "concept": "Do not offer peace to Ammon and Moab while besieging them"
+  },
+  {
+    "num": 604,
+    "pol": "N",
+    "ref": "DEU 20:19",
+    "concept": "Do not destroy fruit trees even during the siege"
+  },
+  {
+    "num": 605,
+    "pol": "P",
+    "ref": "DEU 23:13",
+    "concept": "Prepare latrines outside the camps"
+  },
+  {
+    "num": 606,
+    "pol": "P",
+    "ref": "DEU 23:14",
+    "concept": "Prepare a shovel for each soldier to dig with"
+  },
+  {
+    "num": 607,
+    "pol": "P",
+    "ref": "DEU 20:2",
+    "concept": "Appoint a priest to speak with the soldiers during the war"
+  },
+  {
+    "num": 608,
+    "pol": "P",
+    "ref": "DEU 24:5",
+    "concept": "He who has taken a wife, built a new home, or planted a vineyard is given a year to rejoice with his possessions"
+  },
+  {
+    "num": 609,
+    "pol": "N",
+    "ref": "DEU 24:5",
+    "concept": "Do not demand any communal or military involvement for one year"
+  },
+  {
+    "num": 610,
+    "pol": "N",
+    "ref": "DEU 20:3",
+    "concept": "Do not panic and retreat during battle"
+  },
+  {
+    "num": 611,
+    "pol": "P",
+    "ref": "DEU 21:11",
+    "concept": "Keep the laws of the captive woman"
+  },
+  {
+    "num": 612,
+    "pol": "N",
+    "ref": "DEU 21:14",
+    "concept": "Do not sell a captive woman into slavery"
+  },
+  {
+    "num": 613,
+    "pol": "N",
+    "ref": "DEU 21:14",
+    "concept": "Do not retain a captive woman for servitude after having sexual relations with her"
+  }
+]
